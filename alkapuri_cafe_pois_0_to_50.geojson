@@ -1,0 +1,257 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1734536,
+          22.3121384
+        ]
+      },
+      "properties": {
+        "name": "Kaffa Coffee Roasters",
+        "category": "Coffee shop",
+        "address": "The lane of Bank Of Baroda, near hotel baroda residency, Alkapuri Society, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "4.4",
+        "reviews": "",
+        "phone": "098253 36364 ",
+        "website": "",
+        "place_id": "Kaffa+Coffee+Roasters",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1667258,
+          22.3174902
+        ]
+      },
+      "properties": {
+        "name": "Coffee Yard",
+        "category": "Coffee shop",
+        "address": "GF 01, campus, PRIVILLAGE AVENUE, Sarabhai Rd, opp. ISHA HOSPITAL, Vadiwadi, Vadodara, Gujarat 390023 ",
+        "rating": "4.5",
+        "reviews": "",
+        "phone": "099781 86903 ",
+        "website": "",
+        "place_id": "Coffee+Yard",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.17934,
+          22.3116435
+        ]
+      },
+      "properties": {
+        "name": "Charmant The Heritage Cafe",
+        "category": "Vegetarian cafe and deli",
+        "address": "Contractor's Bungalow, Faramji Rd, opp. Railway Booking Office, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "4.3",
+        "reviews": "",
+        "phone": "097730 50954 ",
+        "website": "",
+        "place_id": "Charmant+The+Heritage+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.169574,
+          22.3079525
+        ]
+      },
+      "properties": {
+        "name": "Curators Coffee",
+        "category": "Coffee shop",
+        "address": "101, Corrum Complex, Jetalpur Rd, Chikuwadi, Haripura, Vadodara, Gujarat 390007 ",
+        "rating": "4.5",
+        "reviews": "",
+        "phone": "063592 20791 ",
+        "website": "http://www.instagram.com/curators.coffee",
+        "place_id": "Curators+Coffee",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1690845,
+          22.3141227
+        ]
+      },
+      "properties": {
+        "name": "The Signature Brew",
+        "category": "Cafe",
+        "address": "83 /A हाई विद्यालय, near बड़ोदा, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "4.1",
+        "reviews": "",
+        "phone": "081412 87148 ",
+        "website": "",
+        "place_id": "The+Signature+Brew",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.17098,
+          22.307564
+        ]
+      },
+      "properties": {
+        "name": "First & Last Sip Cafe",
+        "category": "Restaurant",
+        "address": "F5, Tower, 3A, Jetalpur Rd, Kashivishweshwar Township, Haripura, Vadodara, Gujarat 390007 ",
+        "rating": "4.7",
+        "reviews": "",
+        "phone": "097250 78881 ",
+        "website": "",
+        "place_id": "First+%26+Last+Sip+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.179725,
+          22.3061378
+        ]
+      },
+      "properties": {
+        "name": "Meet Me Cafe – Private Cabin Cafe in Vadodara",
+        "category": "Cafe",
+        "address": "Indiabulls Megamall, S/12C, Swami Vivekananda Railway Over Brg, Road, Akota, Vadodara, Gujarat 390007 ",
+        "rating": "4.3",
+        "reviews": "",
+        "phone": "099047 99887 ",
+        "website": "https://www.instagram.com/meet_me_cafe_vadodara?igsh=bGczcmU5ZWlvdjYx&utm_source=qr",
+        "place_id": "Meet+Me+Cafe+%E2%80%93+Private+Cabin+Cafe+in+Vadodara",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1692678,
+          22.3141364
+        ]
+      },
+      "properties": {
+        "name": "Pefeteria - Gujarat's 1st Pet Cafe",
+        "category": "Cafe",
+        "address": "PEFETERIA, M, K School Lane, near बड़ोदा हाई विद्यालय, Alkapuri Society, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "4.5",
+        "reviews": "",
+        "phone": "074359 77719 ",
+        "website": "http://pefeteria.com/",
+        "place_id": "Pefeteria+-+Gujarat%27s+1st+Pet+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.172511,
+          22.3074351
+        ]
+      },
+      "properties": {
+        "name": "Devi's Coffee Bar",
+        "category": "Cafe",
+        "address": "GF 16, Glacier Complex, Jetalpur Rd, near pizza Bell, Anupum Society, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "4.5",
+        "reviews": "",
+        "phone": "094270 45632 ",
+        "website": "",
+        "place_id": "Devi%27s+Coffee+Bar",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1683195,
+          22.3108343
+        ]
+      },
+      "properties": {
+        "name": "Pure Beans & Creams",
+        "category": "Coffee store",
+        "address": "Before Hampton by Hilton Hotel, # 10, Kanha Capital, RC Dutt Road Opposite Express hotel, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "4.6",
+        "reviews": "",
+        "phone": "099784 47337 ",
+        "website": "",
+        "place_id": "Pure+Beans+%26+Creams",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.169439,
+          22.318351
+        ]
+      },
+      "properties": {
+        "name": "Cafe Kaffeine",
+        "category": "Coffee shop",
+        "address": "Centre Square Mall, Sayaji Path, Near Genda Circle, Nand Agricultural University Farm, Alkapuri, Vadodara, Gujarat 390023 ",
+        "rating": "4.1",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "Cafe+Kaffeine",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1707692,
+          22.3148703
+        ]
+      },
+      "properties": {
+        "name": "C&C House of Coffee & Chocolates",
+        "category": "Coffee shop",
+        "address": "Dr Rustam, 31, Dr Rustom Cama Marg, Nutan Bharat Society, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "4.1",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "C%26C+House+of+Coffee+%26+Chocolates",
+        "search_term": "cafe"
+      }
+    }
+  ]
+}

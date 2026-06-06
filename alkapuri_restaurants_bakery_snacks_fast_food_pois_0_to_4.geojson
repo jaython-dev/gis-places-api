@@ -1,0 +1,488 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1702948,
+          22.310779
+        ]
+      },
+      "properties": {
+        "name": "Shree Rasanand Rinky Food Products",
+        "category": "Sweet shop",
+        "address": "Shop 3, Shital Apartment, RC Dutt Rd, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "3.6",
+        "reviews": "123",
+        "phone": "098794 00451 ",
+        "website": "",
+        "place_id": "ChIJx7zOn7rIXzkRSXh06X2bPnM",
+        "search_term": "snacks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1810966,
+          22.312562
+        ]
+      },
+      "properties": {
+        "name": "western restaurant",
+        "category": "Restaurant",
+        "address": "Maharaja Sayajirao University, Sayajiganj, Vadodara, Gujarat 390007 ",
+        "rating": "4.9",
+        "reviews": "420",
+        "phone": "094264 03850 ",
+        "website": "http://www.westernrestaurant.in/",
+        "place_id": "ChIJ70nS7o3JXzkRRa4fEVY2wmc",
+        "search_term": "restaurants"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1707524,
+          22.3148808
+        ]
+      },
+      "properties": {
+        "name": "Velvet Bakers",
+        "category": "Cafe",
+        "address": "31, Dr Rustom Cama Marg, near Maruti Courier, Chandralok Society, Nutan Bharat Society, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "4.2",
+        "reviews": "853",
+        "phone": "072650 77775 ",
+        "website": "",
+        "place_id": "ChIJMc1gerDIXzkRSJTBYSVexGc",
+        "search_term": "bakery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1794383,
+          22.3113035
+        ]
+      },
+      "properties": {
+        "name": "PUNJABI CHINESE SOUTH INDIAN",
+        "category": "Punjabi restaurant",
+        "address": "Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "5.0",
+        "reviews": "1",
+        "phone": "090334 83773 ",
+        "website": "",
+        "place_id": "ChIJIWnIi7LIXzkRHWJx6uJcC2g",
+        "search_term": "restaurants"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1683848,
+          22.3179522
+        ]
+      },
+      "properties": {
+        "name": "Exotic Eats",
+        "category": "Biryani restaurant",
+        "address": "G-63, Atlantis K-10 Sarabhai Campus, Genda Cir, Subhanpura, Vadodara, Gujarat 390023 ",
+        "rating": "4.8",
+        "reviews": "22",
+        "phone": "087995 10549 ",
+        "website": "http://exoticeats.mini.store/",
+        "place_id": "ChIJ59DpLADJXzkR0gzNyk4-0SA",
+        "search_term": "restaurants"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.165032,
+          22.309918
+        ]
+      },
+      "properties": {
+        "name": "Royal snacks centre",
+        "category": "snacks",
+        "address": "8557+VX6, Dr Ambedkar Cir, Race Course Rd, Race Course, Gautam Nagar, Vadiwadi, Vadodara, Gujarat 390007 ",
+        "rating": "",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJO7ErRB7JXzkRabGz0RurjPQ",
+        "search_term": "snacks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1665691,
+          22.3103476
+        ]
+      },
+      "properties": {
+        "name": "Good Bite",
+        "category": "Fast food restaurant",
+        "address": "Dwarkesh Complex, RC Dutt Rd, nr. Welcome Hotel, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "4.5",
+        "reviews": "69",
+        "phone": "094263 13602 ",
+        "website": "",
+        "place_id": "ChIJHwGeRuzJXzkRk6sjGiHLqNM",
+        "search_term": "fast food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1689587,
+          22.3102418
+        ]
+      },
+      "properties": {
+        "name": "24 Carats Multi Cuisine Restaurant",
+        "category": "Indian restaurant",
+        "address": "RC Dutt Rd, Vishwas Colony, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "4.0",
+        "reviews": "656",
+        "phone": "0265 613 8000 ",
+        "website": "https://expresshotelsindia.com/express-towers-vadodara/restaurants/24-carats/",
+        "place_id": "ChIJq6qqarHIXzkRZ8MKFYkZwE4",
+        "search_term": "restaurants"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1643144,
+          22.3079849
+        ]
+      },
+      "properties": {
+        "name": "Retro Bistro : The Fine Multi Cuisine Restaurant ( Vadodara )",
+        "category": "Fine dining restaurant",
+        "address": "SF-204, The Emerald, Race Course Rd, near Chakli Circle, Paris Nagar, Diwalipura, Vadodara, Gujarat 390007 ",
+        "rating": "4.3",
+        "reviews": "3,058",
+        "phone": "089800 88877 ",
+        "website": "http://www.retrobistro.in/",
+        "place_id": "ChIJ40A0V6PIXzkR1MziRFGtiX8",
+        "search_term": "restaurants"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1725299,
+          22.3102779
+        ]
+      },
+      "properties": {
+        "name": "A food punjabi khana",
+        "category": "Punjabi restaurant",
+        "address": "Vishwas Colony, Vadiwadi, Vadodara, Gujarat 390007 ",
+        "rating": "4.5",
+        "reviews": "12",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJ6Znd0U_JXzkRXioZySjzwAg",
+        "search_term": "restaurants"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1689481,
+          22.3102506
+        ]
+      },
+      "properties": {
+        "name": "Muffins The Cake Shop",
+        "category": "Bakery and Cake Shop",
+        "address": "Hotel Express Towers, RC Dutt Rd, Vishwas Colony, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "4.0",
+        "reviews": "125",
+        "phone": "075748 20963 ",
+        "website": "https://www.muffinscakes.com/",
+        "place_id": "ChIJzRzER7DIXzkRfa5u09dMjd4",
+        "search_term": "bakery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1719225,
+          22.3093237
+        ]
+      },
+      "properties": {
+        "name": "Lazeez",
+        "category": "Mughlai restaurant",
+        "address": "Vishal Chambers, 34, 34, RC Dutt Rd, Aradhana Society, Vishwas Colony, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "4.1",
+        "reviews": "1,820",
+        "phone": "095106 88453 ",
+        "website": "",
+        "place_id": "ChIJAQAAELDIXzkRZPPWFoRrQxg",
+        "search_term": "restaurants"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.179472,
+          22.309262
+        ]
+      },
+      "properties": {
+        "name": "Lucky Punjabi Restaurant",
+        "category": "Punjabi restaurant",
+        "address": "Shop no 2/3, Gayathri Chamber, near Railway Station Garnala, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "3.9",
+        "reviews": "138",
+        "phone": "098251 48803 ",
+        "website": "https://zomato.onelink.me/xqzv/xjrbhnkf",
+        "place_id": "ChIJ4cVFdq3IXzkR3j1erY3G5FA",
+        "search_term": "restaurants"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1710087,
+          22.3162442
+        ]
+      },
+      "properties": {
+        "name": "Le Prive World Cuisine",
+        "category": "Fine dining restaurant",
+        "address": "First Floor, 17/B, opposite Reliance Fresh, Nutan Bharat Society, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "4.5",
+        "reviews": "2,685",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJdyWSXLfIXzkRVM4xqIYnm10",
+        "search_term": "restaurants"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1706917,
+          22.3128942
+        ]
+      },
+      "properties": {
+        "name": "Italian Affair",
+        "category": "Italian restaurant",
+        "address": "857C+574, Ground Floor, Arun Complex Near CH Jewellers, behind Old HDFC Bank, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "4.4",
+        "reviews": "994",
+        "phone": "097145 02546 ",
+        "website": "https://www.zomato.com/vadodara/italian-affair-alkapuri/order",
+        "place_id": "ChIJkfROq0TJXzkRkrqD9nDJXrE",
+        "search_term": "restaurants"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1658003,
+          22.3077012
+        ]
+      },
+      "properties": {
+        "name": "Burger King",
+        "category": "Fast food restaurant",
+        "address": "Shop No 8, Ground Floor, Golden Icon Bird Circle, Old Padra Rd, opposite BSNL Office, Chikuwadi, Haripura, Vadodara, Gujarat 390007 ",
+        "rating": "4.2",
+        "reviews": "4,383",
+        "phone": "088798 09279 ",
+        "website": "https://stores.burgerking.in/burger-king-fast-food-restaurant-op-road-vadodara-179264/Home?utm_source=locator&utm_medium=googleplaces",
+        "place_id": "ChIJUbDHBqvJXzkR_nAyO0iyuqg",
+        "search_term": "fast food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.170613,
+          22.314613
+        ]
+      },
+      "properties": {
+        "name": "Shozo Bakers",
+        "category": "Bakery and Cake Shop",
+        "address": "32B, beside M K Highschool, Nutan Bharat Society, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "4.1",
+        "reviews": "224",
+        "phone": "083204 08576 ",
+        "website": "https://www.shozobakers.com/",
+        "place_id": "ChIJe7bv8rLPXzkRdjG5VDXdVzI",
+        "search_term": "bakery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1707358,
+          22.3160267
+        ]
+      },
+      "properties": {
+        "name": "Rolls Mania",
+        "category": "Fast food restaurant",
+        "address": "G-03 11, Sarthi Complex II 12A, opposite Old School Eatery, Nutan Bharat Society, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "4.0",
+        "reviews": "57",
+        "phone": "093130 87103 ",
+        "website": "http://www.rollsmania.com/",
+        "place_id": "ChIJiQy7C1jPXzkR_4hkWCxs4qY",
+        "search_term": "fast food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1684008,
+          22.3171643
+        ]
+      },
+      "properties": {
+        "name": "McDonald's",
+        "category": "Fast food restaurant",
+        "address": "Vadodara Central Mall, K 10, Genda Cir, Alkapuri, Vadodara, Gujarat 390001 ",
+        "rating": "4.4",
+        "reviews": "5,967",
+        "phone": "089282 10312 ",
+        "website": "https://mcdelivery.co.in/restaurants/baroda/275/order-food-online-in-McDonalds-barodak10atlantis-sayajipath",
+        "place_id": "ChIJTSFtsbnIXzkR3YSG12xjq-s",
+        "search_term": "fast food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1710508,
+          22.3144067
+        ]
+      },
+      "properties": {
+        "name": "What The Food | Best Veg Burgers in Vadodara!",
+        "category": "Fast food restaurant",
+        "address": "Shop 9, Ground Floor, Harmony Complex, opposite MK High School, Nutan Bharat Society, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "5.0",
+        "reviews": "44",
+        "phone": "084870 63321 ",
+        "website": "",
+        "place_id": "ChIJX9RIMgDPXzkR80rpKAD9mNU",
+        "search_term": "fast food"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1758326,
+          22.3149778
+        ]
+      },
+      "properties": {
+        "name": "Floury Bakery",
+        "category": "Bakery and Cake Shop",
+        "address": "49, 1, near Crossword, Alkapuri, Vadodara, Arunoday Society, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "4.6",
+        "reviews": "28",
+        "phone": "094273 42330 ",
+        "website": "",
+        "place_id": "ChIJGwyLkXHJXzkRCQEOuFanhjk",
+        "search_term": "bakery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.166844,
+          22.3101947
+        ]
+      },
+      "properties": {
+        "name": "Choice Snack Bar",
+        "category": "Snack bar",
+        "address": "Welcome Hotel Lane, RC Dutt Rd, Vadiwadi, Vadodara, Gujarat 390007 ",
+        "rating": "4.8",
+        "reviews": "28",
+        "phone": "06355 103 889 ",
+        "website": "https://choicesnackbar.com/",
+        "place_id": "ChIJG5Jd4bTJXzkRLbolvjUGcy8",
+        "search_term": "snacks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1741044,
+          22.3084857
+        ]
+      },
+      "properties": {
+        "name": "Room Zoom Snacks Corner",
+        "category": "Snack bar",
+        "address": "Kashyap Complex, B4 71, BPC Rd, Sampatrao Colony, Jetalpur, Vadodara, Gujarat 390007 ",
+        "rating": "4.1",
+        "reviews": "180",
+        "phone": "098252 96161 ",
+        "website": "",
+        "place_id": "ChIJI6ufGR3GXzkRUhtFwDP0CG4",
+        "search_term": "snacks"
+      }
+    }
+  ]
+}

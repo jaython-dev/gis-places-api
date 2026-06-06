@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1434171,
+          22.295097
+        ]
+      },
+      "properties": {
+        "name": "Caffein Cafe",
+        "category": "Cafe",
+        "address": "Gokul Society, 6, Vasna - Bhayli Main Rd, Vasna jakat Naka, Ravi Park Society, Saiyed Vasna, Vadodara, Gujarat 390020 ",
+        "rating": "4.2",
+        "reviews": "1,605",
+        "phone": "074053 69369 ",
+        "website": "http://www.caffein.co.in/",
+        "place_id": "ChIJte1seYLIXzkRLdqp7TXO_5Y",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1995049,
+          22.2688058
+        ]
+      },
+      "properties": {
+        "name": "HIDE & SEEK CAFE",
+        "category": "Cafe",
+        "address": "GF 22, Lilleria Paramount, near ICICI Bank, Near Tulsidham Char Rasta, Maninagar Society, Manjalpur, Vadodara, Gujarat 390011 ",
+        "rating": "4.8",
+        "reviews": "62",
+        "phone": "078598 74643 ",
+        "website": "https://hide-and-seek-cafe.vercel.app/",
+        "place_id": "ChIJPUZDkzjFXzkRxfLKJt91kHI",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.13958,
+          22.268663
+        ]
+      },
+      "properties": {
+        "name": "Café Corner",
+        "category": "Coffee shop",
+        "address": "GF - 27, Samanvay Status 2, Padra Road, beside BANCO, Atladara, Vadodara, Gujarat 391410 ",
+        "rating": "4.9",
+        "reviews": "8",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJk-iBuKPHXzkRDTYES9Xiy9g",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.159589,
+          22.3202614
+        ]
+      },
+      "properties": {
+        "name": "cafe",
+        "category": "Cafe",
+        "address": "Gf 18,19,20, S square mall, opposite Vishwamohini apartment, near Ganga jamuna hospital, Ganga Jamana Society, Subhanpura, Vadodara, Gujarat 390023 ",
+        "rating": "4.8",
+        "reviews": "47",
+        "phone": "084870 06466 ",
+        "website": "http://www.cafecup90s.com/",
+        "place_id": "ChIJ890e_b3JXzkRiYxc6FMStmo",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1678508,
+          22.3028836
+        ]
+      },
+      "properties": {
+        "name": "Coffee Clan",
+        "category": "Cafe",
+        "address": "Shivang Complex, Shop N0, 4 5 6, Urmi Rd, Opp Gail Office, Punit Nagar, Society, Vadodara, Gujarat 390007 ",
+        "rating": "4.4",
+        "reviews": "1,648",
+        "phone": "074054 12238 ",
+        "website": "",
+        "place_id": "ChIJRTESeabIXzkRc-xAEmjKEFY",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.17098,
+          22.307564
+        ]
+      },
+      "properties": {
+        "name": "First & Last Sip Cafe",
+        "category": "Restaurant",
+        "address": "F5, Tower, 3A, Jetalpur Rd, Kashivishweshwar Township, Haripura, Vadodara, Gujarat 390007 ",
+        "rating": "4.7",
+        "reviews": "103",
+        "phone": "097250 78881 ",
+        "website": "",
+        "place_id": "ChIJdZn19NjJXzkRjNrK1IaYQdE",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1588426,
+          22.2948607
+        ]
+      },
+      "properties": {
+        "name": "Café Coffee Day",
+        "category": "Cafe",
+        "address": "No 103 & 104, Upper Grnd Flr, Aries Pavillion, Vasna Rd, Niti Park Society, Shobhana Nagar, Shivashraya Society, Tandalja, Vadodara, Gujarat 390007 ",
+        "rating": "4.2",
+        "reviews": "1,040",
+        "phone": "1800 102 5093 ",
+        "website": "https://tandalja.cafecoffeeday.com/",
+        "place_id": "ChIJIYirRCfGXzkRa1n-AdwJQas",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1530388,
+          22.2796844
+        ]
+      },
+      "properties": {
+        "name": "The Nirvaan Cafe & Lounge",
+        "category": "Cafe",
+        "address": "Sun Pharma Rd, Pramukh Swami nagar, Atladara, Vadodara, Gujarat 390012 ",
+        "rating": "4.1",
+        "reviews": "1,067",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJZ_W031LHXzkRK_PVFZyAHlE",
+        "search_term": "cafe"
+      }
+    }
+  ]
+}

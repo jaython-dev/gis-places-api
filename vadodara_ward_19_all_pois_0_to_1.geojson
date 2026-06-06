@@ -1,0 +1,488 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1923668,
+          22.2369314
+        ]
+      },
+      "properties": {
+        "name": "Punjabi restaurant",
+        "category": "Punjabi restaurant",
+        "address": "Air Force Rd, Yashoda Colony, Himmat Nagar, Makarpura, Vadodara, Gujarat 390014 ",
+        "rating": "5.0",
+        "reviews": "12",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJAWo4uyvFXzkRGdjDej6i7yg",
+        "search_term": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1877785,
+          22.2352361
+        ]
+      },
+      "properties": {
+        "name": "SMS HOSPITAL VADODARA - BEST MULTISPECIALITY HOSPITAL",
+        "category": "Hospital",
+        "address": "2nd, 3rd Floor, Ganesh Plaza, above Ganesh Hyundai Showroom, near Maneja Crossing Road, JD Nagar, Makarpura, Vadodara, Gujarat 390013 ",
+        "rating": "4.8",
+        "reviews": "2,099",
+        "phone": "081419 65965 ",
+        "website": "https://smshospital.co.in/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_id=101",
+        "place_id": "ChIJL6pKwDfFXzkRtSl5j1IAVOA",
+        "search_term": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2045843,
+          22.2565088
+        ]
+      },
+      "properties": {
+        "name": "Singhania Multispeciality hospital",
+        "category": "Hospital",
+        "address": "F22-23, Susen - Tarsali Ring Rd, Tarsali, Vadodara, Gujarat 390009 ",
+        "rating": "3.0",
+        "reviews": "1",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJK5EsthvFXzkRLNkU0rsL6a8",
+        "search_term": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2278393,
+          22.2576644
+        ]
+      },
+      "properties": {
+        "name": "Maa Chamunda Stationery",
+        "category": "Store",
+        "address": "Shop no 45, Aakruti Heights, near Aksar Public School, behind Tarsali, Tarsali, Vadodara, Gujarat 390009 ",
+        "rating": "",
+        "reviews": "",
+        "phone": "092656 32584 ",
+        "website": "",
+        "place_id": "ChIJ-UpFyc3FXzkR8tLNUJ1yqRs",
+        "search_term": "shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2002926,
+          22.2414524
+        ]
+      },
+      "properties": {
+        "name": "DIVINE HEALTH CLINIC",
+        "category": "Medical clinic",
+        "address": "A/58, shop no, 2, Vrajdham Society, Chhani Jakatnaka, Vadodara, Gujarat 390014 ",
+        "rating": "5.0",
+        "reviews": "15",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJiw0BjV_JXzkRxfKBeLBRUFk",
+        "search_term": "clinic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2103795,
+          22.2503863
+        ]
+      },
+      "properties": {
+        "name": "Snacks Station",
+        "category": "snacks",
+        "address": "C, 30, opposite Ravi park, Motinagar-3, Ayodhya Twp, Tarsali, Vadodara, Gujarat 390009 ",
+        "rating": "",
+        "reviews": "",
+        "phone": "099791 34987 ",
+        "website": "",
+        "place_id": "ChIJ34KIADXFXzkR42NfECGl_9Q",
+        "search_term": "snacks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2007511,
+          22.2386974
+        ]
+      },
+      "properties": {
+        "name": "Mr. Bind Bakery",
+        "category": "Bakery and Cake Shop",
+        "address": "HARI DARSHAN, near behind Airforce, Makarpura, Vadodara, Gujarat 390014 ",
+        "rating": "4.5",
+        "reviews": "127",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJQbxggarFXzkRpBtyIxZJvj4",
+        "search_term": "bakery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1952919,
+          22.2455003
+        ]
+      },
+      "properties": {
+        "name": "Sandeep Sweet and Namkeen",
+        "category": "Sweet shop",
+        "address": "9,10 Amrapali Complex, Makarpura, Vadodara, Gujarat 390010 ",
+        "rating": "4.4",
+        "reviews": "475",
+        "phone": "093286 10446 ",
+        "website": "",
+        "place_id": "ChIJjRJcyjHEXzkR3N5AsKYvakE",
+        "search_term": "sweet shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2001267,
+          22.251305
+        ]
+      },
+      "properties": {
+        "name": "Laxmi Sweet & Farsan Mart",
+        "category": "Indian sweets shop",
+        "address": "B77, Makarpura Rd, Bhakti Nagar, Makarpura, Vadodara, Gujarat 390010 ",
+        "rating": "4.3",
+        "reviews": "401",
+        "phone": "081286 71783 ",
+        "website": "",
+        "place_id": "ChIJqRZbYTTEXzkREVgqTfd9Q8Q",
+        "search_term": "sweet shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1869671,
+          22.2314187
+        ]
+      },
+      "properties": {
+        "name": "Shree Vidya Learning School",
+        "category": "Preschool",
+        "address": "1, Makarpura Rd, Sanskar Tenament, JD Nagar, Maneja, Vadodara, Gujarat 390013 ",
+        "rating": "5.0",
+        "reviews": "1",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJ86ef7CHEXzkReeJI__7gYvg",
+        "search_term": "school"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2104488,
+          22.2391332
+        ]
+      },
+      "properties": {
+        "name": "Hanumanji Temple",
+        "category": "Hindu temple",
+        "address": "66Q6+M54, NH 48, Vadodara, Gujarat 390009 ",
+        "rating": "4.2",
+        "reviews": "5",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJGTbKuUbEXzkRPqYHNhiAglQ",
+        "search_term": "temple"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1891028,
+          22.2381438
+        ]
+      },
+      "properties": {
+        "name": "महादेव मंदिर",
+        "category": "Hindu temple",
+        "address": "65QQ+7J5, Maratha Colony, Jayram Nagar, Makarpura, Vadodara, Gujarat 390014 ",
+        "rating": "5.0",
+        "reviews": "4",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJb05V4HvFXzkRRY_ChOIzyhk",
+        "search_term": "temple"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1882018,
+          22.2365516
+        ]
+      },
+      "properties": {
+        "name": "Sreenarayana Temple",
+        "category": "Hindu temple",
+        "address": "29, Makarpura Rd, JD Nagar, Maneja, Vadodara, Gujarat 390013 ",
+        "rating": "4.6",
+        "reviews": "5",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJ9ddSVyHEXzkR32-P13ioywU",
+        "search_term": "temple"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1889583,
+          22.2380352
+        ]
+      },
+      "properties": {
+        "name": "Triyambkeswe Shiv Temple",
+        "category": "Hindu temple",
+        "address": "Rajmani Society, Maneja Crossing Rd, Maratha Colony, Jayram Nagar, Makarpura, Vadodara, Gujarat 390014 ",
+        "rating": "4.3",
+        "reviews": "16",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJRXo9icLFXzkRh7BrmH4BdGI",
+        "search_term": "temple"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.19921,
+          22.231858
+        ]
+      },
+      "properties": {
+        "name": "Hindu temple",
+        "category": "Hindu temple",
+        "address": "65JX+PMW, Air Force Rd, Makarpura, Vadodara, Gujarat 390014 ",
+        "rating": "4.8",
+        "reviews": "4",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJoZFsX6XFXzkRd8XroNCA12M",
+        "search_term": "temple"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1808532,
+          22.2304549
+        ]
+      },
+      "properties": {
+        "name": "St. Alphonsa Syro Malabar Catholic Church.",
+        "category": "Church",
+        "address": "65JJ+58Q, Maneja, Vadodara, Gujarat 390013 ",
+        "rating": "4.9",
+        "reviews": "35",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJDXOfbgDHXzkRWlSmqzK_g-E",
+        "search_term": "church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1967507,
+          22.2486593
+        ]
+      },
+      "properties": {
+        "name": "Sharon Fellowship Church",
+        "category": "Church",
+        "address": "B-401, Samrudhi Complex, Bhakti Nagar, Makarpura, Vadodara, Gujarat 390010 ",
+        "rating": "5.0",
+        "reviews": "2",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJx7QZP47FXzkRlXY-M2Nzh_w",
+        "search_term": "church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1850553,
+          22.2268052
+        ]
+      },
+      "properties": {
+        "name": "St George Orthodox Chapel, Jambua",
+        "category": "Chapel",
+        "address": "65GP+P2F, Vraj Dham Society, Makarpura, Vadodara, Gujarat 390013 ",
+        "rating": "4.4",
+        "reviews": "13",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJhc13VR7EXzkRz0Lr9TsfIaU",
+        "search_term": "church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2402368,
+          22.2471558
+        ]
+      },
+      "properties": {
+        "name": "Vadadala primary school",
+        "category": "Primary school",
+        "address": "66WR+V39, Vadadla, Gujarat 390009 ",
+        "rating": "",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJG_GDq5nFXzkRPl9SMzN0agw",
+        "search_term": "school"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1890191,
+          22.2361748
+        ]
+      },
+      "properties": {
+        "name": "New look salon - Top Hair & Beauty Salon In Vadodara",
+        "category": "Hairdresser",
+        "address": "FF-12/2, Aatmiya Heights, Maneja Crossing Rd, Guru Nagar, Jayram Nagar, Makarpura, Vadodara, Gujarat 390009 ",
+        "rating": "4.9",
+        "reviews": "1,911",
+        "phone": "092750 31605 ",
+        "website": "http://newlooksalon.in/",
+        "place_id": "ChIJbyJSBiTEXzkRVkx2_jeqKmI",
+        "search_term": "salon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.18722,
+          22.2288919
+        ]
+      },
+      "properties": {
+        "name": "Om Medical And General Store",
+        "category": "Pharmacy",
+        "address": "Shop No. C-28, Gayatrinagar Shopping, Makarpura Rd, Near Jambuva Octroi Naka, Gayatri Nagar, Vraj Dham Society, Maneja, Vadodara, Gujarat 390013 ",
+        "rating": "5.0",
+        "reviews": "1",
+        "phone": "094273 45108 ",
+        "website": "",
+        "place_id": "ChIJ-VRGRh_EXzkRXP8TNtzE7fk",
+        "search_term": "medical store"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2000996,
+          22.2428486
+        ]
+      },
+      "properties": {
+        "name": "Megha Medical & General Stores",
+        "category": "Pharmacy",
+        "address": "1,2, Swami Residency Tower B, Behind Airforce Station, Indra Nagar, Makarpura, Vadodara, Gujarat 390014 ",
+        "rating": "4.2",
+        "reviews": "64",
+        "phone": "094277 86328 ",
+        "website": "",
+        "place_id": "ChIJ_7Ze_jnEXzkR_ksAMUMcJRE",
+        "search_term": "medical store"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2049729,
+          22.2565735
+        ]
+      },
+      "properties": {
+        "name": "Medkart Pharmacy - Tarsali Ring Road - Vadodara",
+        "category": "Pharmacy",
+        "address": "Shop No 6, Nityanand Shopping Center, Shushen, Susen - Tarsali Ring Rd, opposite Manisha Park Society, Anand Baug Society, Tarsali, Vadodara, Gujarat 390009 ",
+        "rating": "4.8",
+        "reviews": "38",
+        "phone": "087582 65265 ",
+        "website": "https://stores.medkart.in/medkart-pharmacy-tarsali-vadodara-11342866/home",
+        "place_id": "ChIJyRr3pLfFXzkRi4N_6-zqpaQ",
+        "search_term": "medical store"
+      }
+    }
+  ]
+}

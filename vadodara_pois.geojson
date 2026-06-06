@@ -1,0 +1,2105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1505679,
+          22.2678073
+        ]
+      },
+      "properties": {
+        "name": "Kashish Food",
+        "category": "Eatery",
+        "address": "shop no 27, pramukh bazar, opp. madhavnagar, Jalaram Nagar, Atladara, Vadodara, Gujarat 390012 ",
+        "rating": "4.8",
+        "reviews": "",
+        "phone": "089808 49969 ",
+        "website": "",
+        "place_id": "Kashish+Food",
+        "search_term": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1580884,
+          22.2752144
+        ]
+      },
+      "properties": {
+        "name": "Sahajanad Restaurant",
+        "category": "Restaurant",
+        "address": "75G5+36P, Padra Road, Above Premvati, Narayanwadi, Atladara, Vadodara, Gujarat 390007 ",
+        "rating": "3.9",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "Sahajanad+Restaurant",
+        "search_term": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1312798,
+          22.2906109
+        ]
+      },
+      "properties": {
+        "name": "House of Munch A MultiCuisine Restaurant and Banquet",
+        "category": "Fine dining restaurant",
+        "address": "Food Castle, Vasna - Bhayli Main Rd, nr. Bright School, Bhayli, Vadodara, Gujarat 391410 ",
+        "rating": "3.6",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "House+of+Munch+A+MultiCuisine+Restaurant+and+Banquet",
+        "search_term": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1295983,
+          22.2940097
+        ]
+      },
+      "properties": {
+        "name": "MOM'S KITCHEN",
+        "category": "Vegetarian restaurant",
+        "address": "12, Shenav Eklav Complex, Priya Cinema Road, Bhayli, Vadodara, Gujarat 391410 ",
+        "rating": "4.9",
+        "reviews": "",
+        "phone": "095102 98297 ",
+        "website": "",
+        "place_id": "MOM%27S+KITCHEN",
+        "search_term": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.155197,
+          22.2614598
+        ]
+      },
+      "properties": {
+        "name": "Popular Bites",
+        "category": "Restaurant",
+        "address": "Gf 5, Divne Galaxy, Kalali Rd, opp. Cm Patel Farm, Chanakya Nagari, Kalali, Vadodara, Gujarat 390012 ",
+        "rating": "4.9",
+        "reviews": "",
+        "phone": "090382 87209 ",
+        "website": "https://popular-bites.grexa.site/",
+        "place_id": "Popular+Bites",
+        "search_term": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1345031,
+          22.2901095
+        ]
+      },
+      "properties": {
+        "name": "Hoppers: Multi Cuisine Restaurant",
+        "category": "North Indian restaurant",
+        "address": "Everest Circle Besides Bright Day School, Vadodara, Gujarat 391410 ",
+        "rating": "4.2",
+        "reviews": "",
+        "phone": "097279 75428 ",
+        "website": "",
+        "place_id": "Hoppers:+Multi+Cuisine+Restaurant",
+        "search_term": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.139314,
+          22.2685151
+        ]
+      },
+      "properties": {
+        "name": "Status Fine Dine Restaurant & Banquet",
+        "category": "Punjabi restaurant",
+        "address": "frist floor 40Mt, Samanvay Status 2, Padra Road, Atladara, Vadodara, Gujarat 390012 ",
+        "rating": "4.2",
+        "reviews": "",
+        "phone": "063565 01110 ",
+        "website": "",
+        "place_id": "Status+Fine+Dine+Restaurant+%26+Banquet",
+        "search_term": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1351402,
+          22.2918644
+        ]
+      },
+      "properties": {
+        "name": "KHUSHBOO FOOD CORNER",
+        "category": "Restaurant",
+        "address": "Gf 12A Vihav Excelus, Vasna - Bhayli Main Rd, opp. Aroma Avenue, Vadodara, Gujarat 391410 ",
+        "rating": "5.0",
+        "reviews": "",
+        "phone": "092768 39428 ",
+        "website": "",
+        "place_id": "KHUSHBOO+FOOD+CORNER",
+        "search_term": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1443292,
+          22.2707369
+        ]
+      },
+      "properties": {
+        "name": "The Great Indian Dhaba",
+        "category": "North Indian restaurant",
+        "address": "beside nayara petrol pump, near Satsang Complex, Atladara, Vadodara, Gujarat 390020 ",
+        "rating": "4.0",
+        "reviews": "",
+        "phone": "",
+        "website": "https://thegreatlndiandhaba.ezoshop.in/",
+        "place_id": "The+Great+Indian+Dhaba",
+        "search_term": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1305566,
+          22.2830096
+        ]
+      },
+      "properties": {
+        "name": "PC'S KITCHEN",
+        "category": "Restaurant",
+        "address": "11,MR Icon, Vasna - Bhayli Main Rd, near waves club, Vadodara, Gujarat 391410 ",
+        "rating": "4.6",
+        "reviews": "",
+        "phone": "099988 03080 ",
+        "website": "",
+        "place_id": "PC%27S+KITCHEN",
+        "search_term": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1537459,
+          22.2790348
+        ]
+      },
+      "properties": {
+        "name": "Mayurpankh - Vadodara's Best Multi-Cuisine Restaurant",
+        "category": "Buffet restaurant",
+        "address": "Laxminarayan Club and Resort, Sun Pharma Rd, Pramukh Swami nagar, Atladara, Vadodara, Gujarat 390012 ",
+        "rating": "4.1",
+        "reviews": "",
+        "phone": "090235 19395 ",
+        "website": "https://lnclubandresort.com/",
+        "place_id": "Mayurpankh+-+Vadodara%27s+Best+Multi-Cuisine+Restaurant",
+        "search_term": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2048416,
+          22.2901714
+        ]
+      },
+      "properties": {
+        "name": "PD restaurant",
+        "category": "North Indian restaurant",
+        "address": "RV Desai Rd, Navapura, Vadodara, Gujarat 390001 ",
+        "rating": "4.2",
+        "reviews": "",
+        "phone": "096013 18380 ",
+        "website": "",
+        "place_id": "PD+restaurant",
+        "search_term": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1393103,
+          22.2977801
+        ]
+      },
+      "properties": {
+        "name": "Ready Platter Restro Cafe",
+        "category": "Restaurant",
+        "address": "Ready Platter Restro Cafe, Vasna Bhayli Main Rd, nr. White House, Saiyed Vasna, Vadodara, Gujarat 391410 ",
+        "rating": "4.7",
+        "reviews": "",
+        "phone": "074349 98585 ",
+        "website": "",
+        "place_id": "Ready+Platter+Restro+Cafe",
+        "search_term": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1643602,
+          22.318505
+        ]
+      },
+      "properties": {
+        "name": "Pandya's kitchen",
+        "category": "Restaurant",
+        "address": "11/b vimleshwar soc Opp tcs office, near BALAJI HOSPITAL, Subhanpura, Vadodara, Gujarat 390023 ",
+        "rating": "4.7",
+        "reviews": "",
+        "phone": "093167 29742 ",
+        "website": "",
+        "place_id": "Pandya%27s+kitchen",
+        "search_term": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1511527,
+          22.2656119
+        ]
+      },
+      "properties": {
+        "name": "Pankti Food Corner",
+        "category": "Restaurant",
+        "address": "SHOP 17, Arya Empire, next to Parishram Classes, below Willian John's Pizza, Jalaram Nagar, Atladara, Vadodara, Gujarat 390012 ",
+        "rating": "4.0",
+        "reviews": "",
+        "phone": "078028 30188 ",
+        "website": "",
+        "place_id": "Pankti+Food+Corner",
+        "search_term": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1355149,
+          22.2927151
+        ]
+      },
+      "properties": {
+        "name": "Pind Balluchi Vadodara",
+        "category": "North Indian restaurant",
+        "address": "VCA ground, 2nd floor The emperor mall besides, Vasna - Bhayli Main Rd, opp. Shakti party plot, Vadodara, Gujarat 391410 ",
+        "rating": "4.1",
+        "reviews": "",
+        "phone": "095582 11212 ",
+        "website": "https://www.pindballuchi.com/",
+        "place_id": "Pind+Balluchi+Vadodara",
+        "search_term": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1528264,
+          22.2856783
+        ]
+      },
+      "properties": {
+        "name": "Green City Family Restaurant",
+        "category": "Restaurant",
+        "address": "Amir Complex, 7, Sun Pharma Rd, Pramukh Swami nagar, Tandalja, Vadodara, Gujarat 390012 ",
+        "rating": "4.7",
+        "reviews": "",
+        "phone": "094290 69907 ",
+        "website": "https://greencityrestaurant.petpooja.com/orders/menu",
+        "place_id": "Green+City+Family+Restaurant",
+        "search_term": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1341051,
+          22.2911851
+        ]
+      },
+      "properties": {
+        "name": "Ustad Miyaan",
+        "category": "North Indian restaurant",
+        "address": "FF 34, Florence Excellence, Vasna - Bhayli Main Rd, next to Bright Day School, Bhayli, Vadodara, Gujarat 391410 ",
+        "rating": "3.9",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "Ustad+Miyaan",
+        "search_term": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1530388,
+          22.2796844
+        ]
+      },
+      "properties": {
+        "name": "The Nirvaan Cafe & Lounge",
+        "category": "Cafe",
+        "address": "Sun Pharma Rd, Pramukh Swami nagar, Atladara, Vadodara, Gujarat 390012 ",
+        "rating": "4.1",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "The+Nirvaan+Cafe+%26+Lounge",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.169587,
+          22.2996912
+        ]
+      },
+      "properties": {
+        "name": "Cafe Bistro",
+        "category": "Cafe",
+        "address": "White Potato Restaurant, Shankheshwar Parshwanath Marg Ground floor, Opposit D-mart, Besides, Akota, Vadodara, Gujarat 390007 ",
+        "rating": "4.2",
+        "reviews": "",
+        "phone": "099043 19904 ",
+        "website": "http://www.facebook.com/coffeeshop.baroda",
+        "place_id": "Cafe+Bistro",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1895569,
+          22.3080904
+        ]
+      },
+      "properties": {
+        "name": "The Cave Cafe",
+        "category": "Cafe",
+        "address": "2nd floor, Midway Height, opp. SSG Hospital, near Kala Ghoda Circle, Dak Bunglaw, Sayajiganj, Vadodara, Gujarat 390020 ",
+        "rating": "4.9",
+        "reviews": "",
+        "phone": "088665 57838 ",
+        "website": "http://thecavecafe.online/",
+        "place_id": "The+Cave+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1678508,
+          22.3028836
+        ]
+      },
+      "properties": {
+        "name": "Coffee Clan",
+        "category": "Cafe",
+        "address": "Shivang Complex, Shop N0, 4 5 6, Urmi Rd, Opp Gail Office, Punit Nagar, Society, Vadodara, Gujarat 390007 ",
+        "rating": "4.4",
+        "reviews": "",
+        "phone": "074054 12238 ",
+        "website": "",
+        "place_id": "Coffee+Clan",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1325009,
+          22.2851287
+        ]
+      },
+      "properties": {
+        "name": "Cafe Amistoso | Vadodara",
+        "category": "Cafe",
+        "address": "Sixth floor, Cafe Amistoso, Vihav Trade Centre, 601, Bhayli, Vadodara, Gujarat 391410 ",
+        "rating": "4.6",
+        "reviews": "",
+        "phone": "074360 72824 ",
+        "website": "https://cafeamistoso.com/",
+        "place_id": "Cafe+Amistoso+%7C+Vadodara",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.169574,
+          22.3079525
+        ]
+      },
+      "properties": {
+        "name": "Curators Coffee",
+        "category": "Coffee shop",
+        "address": "101, Corrum Complex, Jetalpur Rd, Chikuwadi, Haripura, Vadodara, Gujarat 390007 ",
+        "rating": "4.5",
+        "reviews": "",
+        "phone": "063592 20791 ",
+        "website": "http://www.instagram.com/curators.coffee",
+        "place_id": "Curators+Coffee",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1347287,
+          22.281082
+        ]
+      },
+      "properties": {
+        "name": "Neeru's Cafe",
+        "category": "Cafe",
+        "address": "INFINITY PARK MALL, Vasna Bhayli Canal Rd, Pratham Upvan, Vadodara, Gujarat 390020 ",
+        "rating": "5.0",
+        "reviews": "",
+        "phone": "076000 44175 ",
+        "website": "",
+        "place_id": "Neeru%27s+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1734536,
+          22.3121384
+        ]
+      },
+      "properties": {
+        "name": "Kaffa Coffee Roasters",
+        "category": "Coffee shop",
+        "address": "The lane of Bank Of Baroda, near hotel baroda residency, Alkapuri Society, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "4.4",
+        "reviews": "",
+        "phone": "098253 36364 ",
+        "website": "",
+        "place_id": "Kaffa+Coffee+Roasters",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1301099,
+          22.299036
+        ]
+      },
+      "properties": {
+        "name": "Chill House Cafe",
+        "category": "Cafe",
+        "address": "GF-20, Akshar Pavilion, Before Priya Cinema, A-1, Vasna Bhayli Main Rd, Vadodara, Gujarat 391410 ",
+        "rating": "4.9",
+        "reviews": "",
+        "phone": "099245 00215 ",
+        "website": "",
+        "place_id": "Chill+House+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1590781,
+          22.3139032
+        ]
+      },
+      "properties": {
+        "name": "Lionize Restro Cafe",
+        "category": "Cafe",
+        "address": "703, Everest Onyx, above Fabindia, Race Course, Vadiwadi, Vadodara, Gujarat 390021 ",
+        "rating": "4.6",
+        "reviews": "",
+        "phone": "098981 77703 ",
+        "website": "https://lionizerestrocafe.com/",
+        "place_id": "Lionize+Restro+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1301244,
+          22.2901242
+        ]
+      },
+      "properties": {
+        "name": "Theist Cafe",
+        "category": "Cafe",
+        "address": "SWC HUB, GF #07, Vasna - Bhayli Main Rd, Tandalja, Vadodara, Gujarat 391410 ",
+        "rating": "4.9",
+        "reviews": "",
+        "phone": "097273 10722 ",
+        "website": "",
+        "place_id": "Theist+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1416342,
+          22.2926904
+        ]
+      },
+      "properties": {
+        "name": "SHOZO Cafe & Bakery",
+        "category": "Cafe",
+        "address": "Vasna - Bhayli Main Rd, opp. Earth artica, Ashwamegh Nagar, Bhayli, Vadodara, Gujarat 390020 ",
+        "rating": "4.3",
+        "reviews": "",
+        "phone": "088662 77625 ",
+        "website": "",
+        "place_id": "SHOZO+Cafe+%26+Bakery",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1281495,
+          22.2984931
+        ]
+      },
+      "properties": {
+        "name": "SIZE ZERO CAFE | RESTRO - BHAYLI",
+        "category": "Cafe",
+        "address": "GF 11, Urban 2, Vasna Bhayli Main Rd, near Priya Talkies, opp. Akshar Pavillion, TP 2, Bhayli, Vadodara, Gujarat 391410 ",
+        "rating": "4.6",
+        "reviews": "",
+        "phone": "081604 76761 ",
+        "website": "",
+        "place_id": "SIZE+ZERO+CAFE+%7C+RESTRO+-+BHAYLI",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1254473,
+          22.2702636
+        ]
+      },
+      "properties": {
+        "name": "Cafe Madrid Vadodara",
+        "category": "Cafe",
+        "address": "74CG+454, Madrid County By Pacifica Ground Floor, Bhayli Rd, inside Madrid County, near Proposed Swaminarayan Temple, Vadodara, Gujarat 391410 ",
+        "rating": "4.2",
+        "reviews": "",
+        "phone": "063570 72681 ",
+        "website": "",
+        "place_id": "Cafe+Madrid+Vadodara",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1434171,
+          22.295097
+        ]
+      },
+      "properties": {
+        "name": "Caffein Cafe",
+        "category": "Cafe",
+        "address": "Gokul Society, 6, Vasna - Bhayli Main Rd, Vasna jakat Naka, Ravi Park Society, Saiyed Vasna, Vadodara, Gujarat 390020 ",
+        "rating": "4.2",
+        "reviews": "",
+        "phone": "074053 69369 ",
+        "website": "http://www.caffein.co.in/",
+        "place_id": "Caffein+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.179725,
+          22.3061378
+        ]
+      },
+      "properties": {
+        "name": "Meet Me Cafe – Private Cabin Cafe in Vadodara",
+        "category": "Cafe",
+        "address": "Indiabulls Megamall, S/12C, Swami Vivekananda Railway Over Brg, Road, Akota, Vadodara, Gujarat 390007 ",
+        "rating": "4.3",
+        "reviews": "",
+        "phone": "099047 99887 ",
+        "website": "https://www.instagram.com/meet_me_cafe_vadodara?igsh=bGczcmU5ZWlvdjYx&utm_source=qr",
+        "place_id": "Meet+Me+Cafe+%E2%80%93+Private+Cabin+Cafe+in+Vadodara",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.17934,
+          22.3116435
+        ]
+      },
+      "properties": {
+        "name": "Charmant The Heritage Cafe",
+        "category": "Vegetarian cafe and deli",
+        "address": "Contractor's Bungalow, Faramji Rd, opp. Railway Booking Office, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "4.3",
+        "reviews": "",
+        "phone": "097730 50954 ",
+        "website": "",
+        "place_id": "Charmant+The+Heritage+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1368709,
+          22.2932881
+        ]
+      },
+      "properties": {
+        "name": "La Bella Cafe",
+        "category": "Cafe",
+        "address": "Vasna - Bhayli Main Rd, Vasant Vihar, Bhayli, Vadodara, Gujarat 391410 ",
+        "rating": "4.8",
+        "reviews": "",
+        "phone": "072020 40472 ",
+        "website": "",
+        "place_id": "La+Bella+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1347528,
+          22.2912869
+        ]
+      },
+      "properties": {
+        "name": "Vihaan Hospital",
+        "category": "Hospital",
+        "address": "Calisto First Floor, Vasna - Bhayli Rd, Vadodara, Gujarat 391410 ",
+        "rating": "4.1",
+        "reviews": "",
+        "phone": "090330 41639 ",
+        "website": "https://www.apnabusinesscard.com/Vihaan-Hospital",
+        "place_id": "Vihaan+Hospital",
+        "search_term": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1296757,
+          22.2899784
+        ]
+      },
+      "properties": {
+        "name": "AASTHA GENERAL HOSPITAL",
+        "category": "Hospital",
+        "address": "GF-41/42/43, SWC Hub, Vasna - Bhayli Main Rd, opp. empyrean skyline, Bhayli, Vadodara, Gujarat 391410 ",
+        "rating": "4.9",
+        "reviews": "",
+        "phone": "097230 97509 ",
+        "website": "",
+        "place_id": "AASTHA+GENERAL+HOSPITAL",
+        "search_term": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1289563,
+          22.2991867
+        ]
+      },
+      "properties": {
+        "name": "SARV Multi Speciality Hospital",
+        "category": "Private hospital",
+        "address": "74XH+JH3 Saiyed Vasna Road, Axshar Pavillion, Vasna Bhayli Main Road, TP 4, nr. Priya Cinema, Vadodara, Gujarat 391410 ",
+        "rating": "4.5",
+        "reviews": "",
+        "phone": "063533 79100 ",
+        "website": "https://sarvhospital.in/",
+        "place_id": "SARV+Multi+Speciality+Hospital",
+        "search_term": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3257081,
+          22.4313337
+        ]
+      },
+      "properties": {
+        "name": "Jarod Referel Hospital",
+        "category": "Hospital",
+        "address": "C8JG+G7P, Vadodara, Gujarat 391510 ",
+        "rating": "4.2",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "Jarod+Referel+Hospital",
+        "search_term": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1633703,
+          22.2568496
+        ]
+      },
+      "properties": {
+        "name": "Ramkrishna Paramhansa Hospital",
+        "category": "Hospital",
+        "address": "Near DPS School, Kalali, Atladara, Vadodara, Gujarat 390012 ",
+        "rating": "4.7",
+        "reviews": "",
+        "phone": "072010 00290 ",
+        "website": "http://www.shroffsfoundation.org/",
+        "place_id": "Ramkrishna+Paramhansa+Hospital",
+        "search_term": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1505836,
+          22.2677103
+        ]
+      },
+      "properties": {
+        "name": "Adarsh Hospital & ICU",
+        "category": "Hospital",
+        "address": "1st and 4th floor, pramukh bazar complex, Bill Road, opposite tree house high school (CBSE, Jalaram Nagar, Atladara, Vadodara, Gujarat 390012 ",
+        "rating": "4.9",
+        "reviews": "",
+        "phone": "082009 88573 ",
+        "website": "",
+        "place_id": "Adarsh+Hospital+%26+ICU",
+        "search_term": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1522073,
+          22.2785564
+        ]
+      },
+      "properties": {
+        "name": "Jupiter Multispeciality Hospital in Vadodara | Best Hospital In Vadodara | Super Speciality Hospital",
+        "category": "Hospital",
+        "address": "Sun-Pharma Atladra Rd, opposite ICAI Bhavan, Pramukh Swami nagar, Atladara, Vadodara, Gujarat 390012 ",
+        "rating": "4.8",
+        "reviews": "",
+        "phone": "063588 38381 ",
+        "website": "https://jtphospitals.com/",
+        "place_id": "Jupiter+Multispeciality+Hospital+in+Vadodara+%7C+Best+Hospital+In+Vadodara+%7C+Super+Speciality+Hospital",
+        "search_term": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1286387,
+          22.2792861
+        ]
+      },
+      "properties": {
+        "name": "SHIV CLINIC",
+        "category": "Medical clinic",
+        "address": "10, Astron Avenue, near Lalita Party Plot, Sardar Chok, Bhayli, Vadodara, Gujarat 391410 ",
+        "rating": "5.0",
+        "reviews": "",
+        "phone": "099092 19258 ",
+        "website": "",
+        "place_id": "SHIV+CLINIC",
+        "search_term": "clinic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1851901,
+          22.2277102
+        ]
+      },
+      "properties": {
+        "name": "Ami Clinic",
+        "category": "Medical clinic",
+        "address": "65HP+33P, Maneja Rd, Vraj Dham Society, Makarpura, Vadodara, Gujarat 390013 ",
+        "rating": "5.0",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "Ami+Clinic",
+        "search_term": "clinic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1345275,
+          22.2543594
+        ]
+      },
+      "properties": {
+        "name": "ASHIRVAD CLINIC",
+        "category": "Family practice physician",
+        "address": "Shop No 13 Akhsar paradise complex, Bill Canal Rd, Atladara, Gujarat 391410 ",
+        "rating": "5.0",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "ASHIRVAD+CLINIC",
+        "search_term": "clinic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.13499,
+          22.256319
+        ]
+      },
+      "properties": {
+        "name": "Akshar Clinic and health care center",
+        "category": "Medical clinic",
+        "address": "beside lake, opp. Verai mataji temple, Bil gam, Bill, Vadodara, Gujarat 391410 ",
+        "rating": "5.0",
+        "reviews": "",
+        "phone": "088665 75842 ",
+        "website": "",
+        "place_id": "Akshar+Clinic+and+health+care+center",
+        "search_term": "clinic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1488037,
+          22.2350495
+        ]
+      },
+      "properties": {
+        "name": "NAVKAR CLINIC & HEALTH CARE",
+        "category": "Medical clinic",
+        "address": "gaam, opp. Amaba mataji temple, Chapad, Vadodara, Gujarat 391410 ",
+        "rating": "5.0",
+        "reviews": "",
+        "phone": "079905 80173 ",
+        "website": "",
+        "place_id": "NAVKAR+CLINIC+%26+HEALTH+CARE",
+        "search_term": "clinic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1488684,
+          22.265821
+        ]
+      },
+      "properties": {
+        "name": "Om Clinic (Dr.Dipika A. Chauhan)",
+        "category": "Medical clinic",
+        "address": "GF 12, Velani Exotica, Atladara Rd, Jalaram Nagar, Atladara, Bill, Vadodara, Gujarat 390012 ",
+        "rating": "4.9",
+        "reviews": "",
+        "phone": "097256 71308 ",
+        "website": "https://wa.me/919725671308",
+        "place_id": "Om+Clinic+%28Dr.Dipika+A.+Chauhan%29",
+        "search_term": "clinic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1584935,
+          22.2834805
+        ]
+      },
+      "properties": {
+        "name": "SANJIVANI CLINIC",
+        "category": "Medical clinic",
+        "address": "F-8, Old Padra Rd, opp. Mathuranagri Society, Tandalja, Vadodara, Gujarat 390012 ",
+        "rating": "4.9",
+        "reviews": "",
+        "phone": "083200 88139 ",
+        "website": "",
+        "place_id": "SANJIVANI+CLINIC",
+        "search_term": "clinic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1310902,
+          22.2798777
+        ]
+      },
+      "properties": {
+        "name": "Shreeji clinic",
+        "category": "Medical clinic",
+        "address": "Shree Radhe shyam elite, Bhayli, Vadodara, Gujarat 391410 ",
+        "rating": "5.0",
+        "reviews": "",
+        "phone": "097144 16672 ",
+        "website": "",
+        "place_id": "Shreeji+clinic",
+        "search_term": "clinic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.124828,
+          22.2811966
+        ]
+      },
+      "properties": {
+        "name": "GANESH CLINIC",
+        "category": "Medical clinic",
+        "address": "First Floor, The Rise Classic, near Pragati Vidhyalay, Bhayli, Vadodara, Gujarat 391410 ",
+        "rating": "5.0",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "GANESH+CLINIC",
+        "search_term": "clinic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1319755,
+          22.2812145
+        ]
+      },
+      "properties": {
+        "name": "Cure health center",
+        "category": "Medical clinic",
+        "address": "Gf no 9, Green field 4, opp. FORTUNE GREENS, behind wave club, Bhayli, Vadodara, Gujarat 391410 ",
+        "rating": "4.3",
+        "reviews": "",
+        "phone": "095866 92945 ",
+        "website": "",
+        "place_id": "Cure+health+center",
+        "search_term": "clinic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1359939,
+          22.2984796
+        ]
+      },
+      "properties": {
+        "name": "Hari clinic",
+        "category": "Doctor",
+        "address": "GF-25 Radheshyam Enclave Near Nilamber Bellisimo 2 Near White House, Vasna Bhayli Main Rd, Vadodara, Gujarat 391410 ",
+        "rating": "4.7",
+        "reviews": "",
+        "phone": "097241 42710 ",
+        "website": "",
+        "place_id": "Hari+clinic",
+        "search_term": "clinic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1475431,
+          22.273014
+        ]
+      },
+      "properties": {
+        "name": "Shreeji Clinic",
+        "category": "Medical clinic",
+        "address": "AIMS Prospero, opp. Narayanwadi, Atladara, Vadodara, Gujarat 390020 ",
+        "rating": "4.8",
+        "reviews": "",
+        "phone": "099252 30977 ",
+        "website": "",
+        "place_id": "Shreeji+Clinic",
+        "search_term": "clinic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.14674,
+          22.285002
+        ]
+      },
+      "properties": {
+        "name": "FamiCare clinic",
+        "category": "Medical clinic",
+        "address": "74PW+2M5, Tandalja Rd, Taif Nagar, Tandalja, Vadodara, Gujarat 390012 ",
+        "rating": "4.8",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "FamiCare+clinic",
+        "search_term": "clinic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1811944,
+          22.3072109
+        ]
+      },
+      "properties": {
+        "name": "Om Clinic",
+        "category": "Medical clinic",
+        "address": "Sudhakar Building, R Pura, R Pura, Vadodara, Gujarat 390007 ",
+        "rating": "5.0",
+        "reviews": "",
+        "phone": "0265 242 4145 ",
+        "website": "",
+        "place_id": "Om+Clinic",
+        "search_term": "clinic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1343754,
+          22.2582815
+        ]
+      },
+      "properties": {
+        "name": "Ami Clinic - Dr. Tanmesh Patel",
+        "category": "Medical clinic",
+        "address": "GF-16, Aarya Exotica, Bill Road, opp. KD 10, Vadodara, Gujarat 391410 ",
+        "rating": "5.0",
+        "reviews": "",
+        "phone": "082384 11909 ",
+        "website": "https://ami-clinic-dr.grexa.site/",
+        "place_id": "Ami+Clinic+-+Dr.+Tanmesh+Patel",
+        "search_term": "clinic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1384872,
+          22.26117
+        ]
+      },
+      "properties": {
+        "name": "Shiv Clinic",
+        "category": "Doctor",
+        "address": "Shop No 6, Param Crest, beside Shagun Party Plot, Vadodara, Gujarat 391410 ",
+        "rating": "",
+        "reviews": "",
+        "phone": "089758 73082 ",
+        "website": "",
+        "place_id": "Shiv+Clinic",
+        "search_term": "clinic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.133635,
+          22.2611839
+        ]
+      },
+      "properties": {
+        "name": "GAYATRI CLINIC",
+        "category": "Doctor",
+        "address": "GF 22, NEELKANTH PALMS, Bill Road, Vadodara, Gujarat 391410 ",
+        "rating": "",
+        "reviews": "",
+        "phone": "095580 90381 ",
+        "website": "",
+        "place_id": "GAYATRI+CLINIC",
+        "search_term": "clinic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1519594,
+          22.2823239
+        ]
+      },
+      "properties": {
+        "name": "Akshar clinic and health care center",
+        "category": "Medical clinic",
+        "address": "Siddheshwar Krishna, 19, near IIRA international school, Vadodara, Gujarat 390012 ",
+        "rating": "5.0",
+        "reviews": "",
+        "phone": "081600 69850 ",
+        "website": "",
+        "place_id": "Akshar+clinic+and+health+care+center",
+        "search_term": "clinic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2345575,
+          22.3271002
+        ]
+      },
+      "properties": {
+        "name": "Mahadev Clinic",
+        "category": "Medical clinic",
+        "address": "GF-9, Siddharth Cube -C, D-Mart Road, opp. Nandghar, Khodiyar Nagar, Harni, Vadodara, Gujarat 390022 ",
+        "rating": "5.0",
+        "reviews": "",
+        "phone": "079840 41898 ",
+        "website": "",
+        "place_id": "Mahadev+Clinic",
+        "search_term": "clinic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1532936,
+          22.3335036
+        ]
+      },
+      "properties": {
+        "name": "Radhe Clinic",
+        "category": "Medical clinic",
+        "address": "188, New IPCL Rd, Ashok Vatika Society, Ashirwad Nagar, Gorwa, Vadodara, Gujarat 390016 ",
+        "rating": "4.9",
+        "reviews": "",
+        "phone": "094092 24760 ",
+        "website": "",
+        "place_id": "Radhe+Clinic",
+        "search_term": "clinic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1299587,
+          22.289941
+        ]
+      },
+      "properties": {
+        "name": "Central Pharmacy",
+        "category": "Medical supply store",
+        "address": "Shop No. 25, SWC HUB, Vasna - Bhayli Main Rd, Bhayli, Vadodara, Gujarat 391410 ",
+        "rating": "4.5",
+        "reviews": "",
+        "phone": "095584 24365 ",
+        "website": "",
+        "place_id": "Central+Pharmacy",
+        "search_term": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1716012,
+          22.2946563
+        ]
+      },
+      "properties": {
+        "name": "PHARMA WORLD || Chemist Store In Vadodara/Medical Store In Vadodara",
+        "category": "Pharmacy",
+        "address": "GF-4/5, Shreeji Complex, BPC Rd, near Atithi Gruh, opposite Alka Society, Sheetal Nagar, Akota, Vadodara, Gujarat 390007 ",
+        "rating": "4.9",
+        "reviews": "",
+        "phone": "099259 49949 ",
+        "website": "",
+        "place_id": "PHARMA+WORLD+%7C%7C+Chemist+Store+In+Vadodara%2FMedical+Store+In+Vadodara",
+        "search_term": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1310897,
+          22.281001
+        ]
+      },
+      "properties": {
+        "name": "Metro Chemist & General Store",
+        "category": "Pharmacy",
+        "address": "Shop No 14, Bhayli, Vadodara, Gujarat 391410 ",
+        "rating": "5.0",
+        "reviews": "",
+        "phone": "091305 29241 ",
+        "website": "",
+        "place_id": "Metro+Chemist+%26+General+Store",
+        "search_term": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1336935,
+          22.2613412
+        ]
+      },
+      "properties": {
+        "name": "Medkart Pharmacy - Bill Road, Vadodara",
+        "category": "Pharmacy",
+        "address": "No. S/7, Nilkanth Palms, Padra Road, near Banco Company, Bhaili, Vadodara, Gujarat 391410 ",
+        "rating": "5.0",
+        "reviews": "",
+        "phone": "070960 99970 ",
+        "website": "https://stores.medkart.in/",
+        "place_id": "Medkart+Pharmacy+-+Bill+Road,+Vadodara",
+        "search_term": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1248067,
+          22.2945493
+        ]
+      },
+      "properties": {
+        "name": "Health Mart Pharmacy",
+        "category": "Pharmacy",
+        "address": "Siddhivinayak Arcus, 23 GF, Bhayli Rd, Bhayli, Vadodara, Gujarat 391410 ",
+        "rating": "5.0",
+        "reviews": "",
+        "phone": "083200 24661 ",
+        "website": "https://www.healthmart.com/",
+        "place_id": "Health+Mart+Pharmacy",
+        "search_term": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.132274,
+          22.2851837
+        ]
+      },
+      "properties": {
+        "name": "Care PHARMACY",
+        "category": "Pharmacy",
+        "address": "SHOP NO. GF-43 VIHAV TRADE CENTER NEAR WAVES CLUB, 30 MTR, Vasna Bhayli Canal Rd, RING ROAD, Bhayli, Vadodara, Gujarat 391410 ",
+        "rating": "4.8",
+        "reviews": "",
+        "phone": "090818 10108 ",
+        "website": "",
+        "place_id": "Care+PHARMACY",
+        "search_term": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1293343,
+          22.2863066
+        ]
+      },
+      "properties": {
+        "name": "Pharma One Store",
+        "category": "Pharmacy",
+        "address": "Shops, GF-A/07 Solaris, Vasna - Bhayli Main Rd, Vadodara, Gujarat 391410 ",
+        "rating": "5.0",
+        "reviews": "",
+        "phone": "092650 32811 ",
+        "website": "http://www.pharmaonestores.in/",
+        "place_id": "Pharma+One+Store",
+        "search_term": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1482916,
+          22.3037734
+        ]
+      },
+      "properties": {
+        "name": "HEALTH FIRST PHARMACY",
+        "category": "Pharmacy",
+        "address": "Shakti Nagar Society, Saiyed Vasna, Vadodara, Gujarat 390007 ",
+        "rating": "",
+        "reviews": "",
+        "phone": "083208 32843 ",
+        "website": "",
+        "place_id": "HEALTH+FIRST+PHARMACY",
+        "search_term": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1784373,
+          22.3097141
+        ]
+      },
+      "properties": {
+        "name": "Stop N Shop Plaza",
+        "category": "Supermarket",
+        "address": "855H+V9M, RC Dutt Rd, Dilaram Comound, Jetalpur, Vadodara, Gujarat 390007 ",
+        "rating": "4.1",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "Stop+N+Shop+Plaza",
+        "search_term": "shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2145209,
+          22.300235
+        ]
+      },
+      "properties": {
+        "name": "Honest Medical Stores",
+        "category": "Pharmacy",
+        "address": "Panigate Rd, Opp. City Police Station, Syedwada, Moghul Wada, Vadodara, Gujarat 390017 ",
+        "rating": "4.8",
+        "reviews": "",
+        "phone": "098255 04662 ",
+        "website": "",
+        "place_id": "Honest+Medical+Stores",
+        "search_term": "shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1489531,
+          22.2661365
+        ]
+      },
+      "properties": {
+        "name": "MY SHOP stationery & Gift",
+        "category": "Gift shop",
+        "address": "Velani Exotica, 1, Atladara, Vadodara, Gujarat 390012 ",
+        "rating": "4.4",
+        "reviews": "",
+        "phone": "091063 58378 ",
+        "website": "",
+        "place_id": "MY+SHOP+stationery+%26+Gift",
+        "search_term": "shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2011866,
+          22.2740562
+        ]
+      },
+      "properties": {
+        "name": "Amarjyot Shopping Centre",
+        "category": "Shopping mall",
+        "address": "76F2+JFF, Sindhwai Mata Rd, Lalbaug, Manjalpur, Vadodara, Gujarat 390004 ",
+        "rating": "3.8",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "Amarjyot+Shopping+Centre",
+        "search_term": "shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2058237,
+          22.3018335
+        ]
+      },
+      "properties": {
+        "name": "Kalpi Mangal Bazaar",
+        "category": "Clothing store",
+        "address": "Mangal Bazzar, Kalamandir Ln, opposite Pratap Talkies, Mangal Bazar, Bajwada, Vadodara, Gujarat 390001 ",
+        "rating": "4.1",
+        "reviews": "",
+        "phone": "0265 242 3783 ",
+        "website": "",
+        "place_id": "Kalpi+Mangal+Bazaar",
+        "search_term": "shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2430104,
+          22.2925967
+        ]
+      },
+      "properties": {
+        "name": "Snac'D",
+        "category": "Restaurant",
+        "address": "Sharnam Complex, GF-9, Parivar Char Rasta, near Savita Hospital, Waghodia, Vadodara, Gujarat 390019 ",
+        "rating": "4.0",
+        "reviews": "",
+        "phone": "094296 17120 ",
+        "website": "",
+        "place_id": "Snac%27D",
+        "search_term": "snacks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1474039,
+          22.3397198
+        ]
+      },
+      "properties": {
+        "name": "Snacky",
+        "category": "Cafe",
+        "address": "Shop No 10, Aura Square, Panchvati Rd, Sonia Nagar, Gorwa, Vadodara, Gujarat 390016 ",
+        "rating": "4.6",
+        "reviews": "",
+        "phone": "06355 388 538 ",
+        "website": "",
+        "place_id": "Snacky",
+        "search_term": "snacks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2039642,
+          22.3416438
+        ]
+      },
+      "properties": {
+        "name": "SNACKING",
+        "category": "Restaurant",
+        "address": "Shop no. GF-34, Earth Eon, Sama-Savli Rd, opp. Urmi School, New Sama, Vadodara, Gujarat 390024 ",
+        "rating": "5.0",
+        "reviews": "",
+        "phone": "073596 31953 ",
+        "website": "",
+        "place_id": "SNACKING",
+        "search_term": "snacks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1222994,
+          22.2918329
+        ]
+      },
+      "properties": {
+        "name": "Shreeji Snacks",
+        "category": "Fast food restaurant",
+        "address": "GF-17, GOLD CROFIT COMPLEX, Vasna - Bhayli Main Rd, opp. NAVRACHNA UNIVERSITY, Bhayli, Vadodara, Gujarat 391410 ",
+        "rating": "4.8",
+        "reviews": "",
+        "phone": "098190 16721 ",
+        "website": "",
+        "place_id": "Shreeji+Snacks",
+        "search_term": "snacks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2309979,
+          22.300499
+        ]
+      },
+      "properties": {
+        "name": "Snack Zone",
+        "category": "Fast food restaurant",
+        "address": "Shop No. 9, Maa Complex, Uma Char Rasta, near Domino's, Uma Colony, Road, Waghodia, Vadodara, Gujarat 390019 ",
+        "rating": "4.0",
+        "reviews": "",
+        "phone": "081288 89123 ",
+        "website": "",
+        "place_id": "Snack+Zone",
+        "search_term": "snacks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1288106,
+          22.2932822
+        ]
+      },
+      "properties": {
+        "name": "FOOD JUNCTION",
+        "category": "Sweet shop",
+        "address": "A_801, Crystal Arc, BUNGLOWS, Vasna - Bhayli Main Rd, beside Vedant 3, Bhayli, Vadodara, Gujarat 391410 ",
+        "rating": "5.0",
+        "reviews": "",
+        "phone": "098985 56787 ",
+        "website": "https://store.shoopy.in/food-junction-77551",
+        "place_id": "FOOD+JUNCTION",
+        "search_term": "snacks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5654397,
+          23.0348782
+        ]
+      },
+      "properties": {
+        "name": "Navin Chavana and Sweet Mart",
+        "category": "Fast food restaurant",
+        "address": "Near, Delite Accessories Cross Rd, Shrimali Society, Navrangpura, Ahmedabad, Gujarat 380009 ",
+        "rating": "4.4",
+        "reviews": "",
+        "phone": "093756 24438 ",
+        "website": "",
+        "place_id": "Navin+Chavana+and+Sweet+Mart",
+        "search_term": "farsan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5327977,
+          23.0630931
+        ]
+      },
+      "properties": {
+        "name": "Jalaram Farsan House",
+        "category": "Indian sweets shop",
+        "address": "8, Virat Apartment, Opp. Mehfil Restaurant, Sattadhar, Sola Rd, Municipal Karmachari Nagar, AEC Char Rasta, Ahmedabad, Gujarat 380061 ",
+        "rating": "4.3",
+        "reviews": "",
+        "phone": "099744 83235 ",
+        "website": "",
+        "place_id": "Jalaram+Farsan+House",
+        "search_term": "farsan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5251592,
+          23.0217796
+        ]
+      },
+      "properties": {
+        "name": "Shree Padmavati Farsan and Sweets",
+        "category": "Indian sweets shop",
+        "address": "Ground Floor, Aditya Plaza, Jodhpur Gam Rd, opp. Trupti Bakery, Jodhpur Village, Ahmedabad, Gujarat 380015 ",
+        "rating": "4.5",
+        "reviews": "",
+        "phone": "097259 25707 ",
+        "website": "",
+        "place_id": "Shree+Padmavati+Farsan+and+Sweets",
+        "search_term": "farsan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.201224,
+          22.299767
+        ]
+      },
+      "properties": {
+        "name": "Jay Jalaram Farsan Shop || Best Sweet Shop, Namkeen Shop, Farsan Mart In Vadodara",
+        "category": "Sweet shop",
+        "address": "Pratap Road, Char Rasta, opposite Agnishanti Kendra, Dandia Bazar, Mandvi, Vadodara, Gujarat 390001 ",
+        "rating": "4.2",
+        "reviews": "",
+        "phone": "098798 93505 ",
+        "website": "",
+        "place_id": "Jay+Jalaram+Farsan+Shop+%7C%7C+Best+Sweet+Shop,+Namkeen+Shop,+Farsan+Mart+In+Vadodara",
+        "search_term": "farsan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5863534,
+          23.0207499
+        ]
+      },
+      "properties": {
+        "name": "Ashok Farsan",
+        "category": "Sweet shop",
+        "address": "Danapith Rd, Old City, Mandvi ni Pol, Khadia, Ahmedabad, Gujarat 380001 ",
+        "rating": "4.5",
+        "reviews": "",
+        "phone": "080005 35200 ",
+        "website": "",
+        "place_id": "Ashok+Farsan",
+        "search_term": "farsan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5447926,
+          23.0548679
+        ]
+      },
+      "properties": {
+        "name": "Vadigam farsan house",
+        "category": "Sweet shop",
+        "address": "Sola Rd, Naranpura, Ahmedabad, Gujarat 380063 ",
+        "rating": "4.1",
+        "reviews": "",
+        "phone": "099985 55127 ",
+        "website": "",
+        "place_id": "Vadigam+farsan+house",
+        "search_term": "farsan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1351086,
+          22.2918543
+        ]
+      },
+      "properties": {
+        "name": "OYO Flagship Hotel Prime Inn",
+        "category": "hotel",
+        "address": "3 rd floor, Vihav Excelus, Vasna - Bhayli Main Rd, near Bright School, Bhayli, Vadodara, Gujarat 391410 ",
+        "rating": "3.8",
+        "reviews": "",
+        "phone": "0124 620 1240 ",
+        "website": "https://www.oyorooms.com/210956/",
+        "place_id": "OYO+Flagship+Hotel+Prime+Inn",
+        "search_term": "hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1526133,
+          22.276967
+        ]
+      },
+      "properties": {
+        "name": "Collection O Hotel Ace",
+        "category": "hotel",
+        "address": "1, Sun-Pharma Atladra Rd, Pramukh Swami nagar, Pratham Upvan, Vadodara, Gujarat 390012 ",
+        "rating": "3.9",
+        "reviews": "",
+        "phone": "0124 620 1240 ",
+        "website": "https://www.oyorooms.com/112786/",
+        "place_id": "Collection+O+Hotel+Ace",
+        "search_term": "hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1396953,
+          22.2686802
+        ]
+      },
+      "properties": {
+        "name": "Hotel Sunrise",
+        "category": "hotel",
+        "address": "4th floor, Samanvay Status 2, Atladara, Vadodara, Gujarat 391410 ",
+        "rating": "4.4",
+        "reviews": "",
+        "phone": "091066 15817 ",
+        "website": "https://business.google.com/v/hotel-sunrise/AKsrIN1ELeluBfK2KrGA0O0C1eycAUT04Hj0U96ztkgStAGu8v3FSV9uXbiWUcdbb6BJ/c534/_?exp=1736905&myads=1",
+        "place_id": "Hotel+Sunrise",
+        "search_term": "hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1387027,
+          22.3979483
+        ]
+      },
+      "properties": {
+        "name": "Hotel MD GRAND AC Rooms",
+        "category": "hotel",
+        "address": "2ND FLOOR, PANOLI, Sna ATRIUM, PLOT NO.7, Ranoli GIDC, Ranoli, Vadodara, Gujarat 391350 ",
+        "rating": "4.8",
+        "reviews": "",
+        "phone": "097725 63847 ",
+        "website": "https://apnabusinesscard.com/Hotel-MD-Grand-AC-Rooms",
+        "place_id": "Hotel+MD+GRAND+AC+Rooms",
+        "search_term": "hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1388842,
+          22.2683991
+        ]
+      },
+      "properties": {
+        "name": "Hotel Shree Pashupati Plaza",
+        "category": "hotel",
+        "address": "2nd Floor, Unit-1, Samanvay Status-1, Padra Road, Atladara, Vadodara, Gujarat 391410 ",
+        "rating": "4.5",
+        "reviews": "",
+        "phone": "079848 53912 ",
+        "website": "",
+        "place_id": "Hotel+Shree+Pashupati+Plaza",
+        "search_term": "hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1490966,
+          22.2805427
+        ]
+      },
+      "properties": {
+        "name": "FabHotel Stay In",
+        "category": "hotel",
+        "address": "3rd Floor, Building Number .323, South West Central Mall, Sun Pharma Office, Sun Pharma Rd, Soudagar Park, Atladara, Vadodara, Gujarat 390012 ",
+        "rating": "4.4",
+        "reviews": "",
+        "phone": "070424 24242 ",
+        "website": "https://www.fabhotels.com/hotels-in-vadodara/fabhotel-stay-in-cnefmkkh.html?utm_source=GMB&utm_medium=organic&utm_campaign=GMB_Traffic",
+        "place_id": "FabHotel+Stay+In",
+        "search_term": "hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1624269,
+          22.2771761
+        ]
+      },
+      "properties": {
+        "name": "Gujarat Public School & Hostel - Atladara",
+        "category": "CBSE School",
+        "address": "Nr. Kalali Railway Crossing, off Old Padra Road, Atladara, Vadodara, Gujarat 390007 ",
+        "rating": "",
+        "reviews": "",
+        "phone": "096879 96677 ",
+        "website": "http://www.gujaratpublicschool.in/",
+        "place_id": "Gujarat+Public+School+%26+Hostel+-+Atladara",
+        "search_term": "school"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1294131,
+          22.2905465
+        ]
+      },
+      "properties": {
+        "name": "Tree House High School",
+        "category": "High school",
+        "address": "74RH+6Q7, Near Vuda Colony, Atladara, Vadodara, Gujarat 390023 ",
+        "rating": "",
+        "reviews": "",
+        "phone": "0265 268 1072 ",
+        "website": "http://www.treehousehighschool.com/",
+        "place_id": "Tree+House+High+School",
+        "search_term": "school"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0918888,
+          22.3389388
+        ]
+      },
+      "properties": {
+        "name": "Podar World School, Vadodara - Sherkhi",
+        "category": "CBSE School",
+        "address": "Bhimpura-Koyali Channel Road, Opp. Bapu Nagar Bus Stand, Near Chandan Multiplex, Sherkhi, Gujarat 391330 ",
+        "rating": "",
+        "reviews": "",
+        "phone": "096247 06111 ",
+        "website": "https://www.podar.org/vadodara1/",
+        "place_id": "Podar+World+School,+Vadodara+-+Sherkhi",
+        "search_term": "school"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.261513,
+          22.326199
+        ]
+      },
+      "properties": {
+        "name": "American School of Baroda",
+        "category": "CBSE School",
+        "address": "Ajwa- Nimeta, Road, opp. Sayaji Park Society, Vadodara, Gujarat 390019 ",
+        "rating": "",
+        "reviews": "",
+        "phone": "090990 56693 ",
+        "website": "http://www.asobaroda.org/",
+        "place_id": "American+School+of+Baroda",
+        "search_term": "school"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.150419,
+          22.268339
+        ]
+      },
+      "properties": {
+        "name": "Tree House High School (CBSE)",
+        "category": "Higher secondary school",
+        "address": "safal iris, Bh, K 701, near vuda colony, Narayanwadi, Atladara, Vadodara, Gujarat 390012 ",
+        "rating": "",
+        "reviews": "",
+        "phone": "063522 96217 ",
+        "website": "https://www.treehousehighschool.com/school/tree-house-high-schoolbaroda-cbse.html",
+        "place_id": "Tree+House+High+School+(CBSE)",
+        "search_term": "school"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1322996,
+          22.2676618
+        ]
+      },
+      "properties": {
+        "name": "VIBGYOR High School Padra Road, Vadodara",
+        "category": "Educational institution",
+        "address": "Railway Station, Padra Road, opp. Banco Product, B/H, Bhayli, Vadodara, Gujarat 391410 ",
+        "rating": "4.2",
+        "reviews": "",
+        "phone": "0265 260 7600 ",
+        "website": "https://www.vibgyorhigh.com/school/vadodara/cambridge/padra-road?utm_source=Google+Maps&utm_medium=Google+Maps+Listing&utm_campaign=Google+Business+Profile+Listing",
+        "place_id": "VIBGYOR+High+School+Padra+Road,+Vadodara",
+        "search_term": "school"
+      }
+    }
+  ]
+}

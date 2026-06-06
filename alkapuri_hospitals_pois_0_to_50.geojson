@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1629821,
+          22.307559
+        ]
+      },
+      "properties": {
+        "name": "New Life Hospital",
+        "category": "Hospital",
+        "address": "Lotus Court, Sampatrao Colony, Jetalpur, Vadodara, Gujarat 390007 ",
+        "rating": "",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "New+Life+Hospital",
+        "search_term": "hospitals"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1891879,
+          22.319564
+        ]
+      },
+      "properties": {
+        "name": "Rhythm Maternity & Surgical Hosiptal",
+        "category": "Hospital",
+        "address": "859Q+RMG, Fatehgunj Main Rd Opp Heera Apartment, Colony, Fatehgunj, Vadodara, Gujarat 390008 ",
+        "rating": "3.2",
+        "reviews": "",
+        "phone": "0265 279 2530 ",
+        "website": "",
+        "place_id": "Rhythm+Maternity+%26+Surgical+Hosiptal",
+        "search_term": "hospitals"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.160444,
+          22.31883
+        ]
+      },
+      "properties": {
+        "name": "Vatsalya Children Hospital",
+        "category": "Children's hospital",
+        "address": "2nd Flr, Siddhi Vinayak Complex, Bank Of India Lane, Ellora Park, Subhanpura, Vadodara, Gujarat 390023 ",
+        "rating": "4.3",
+        "reviews": "",
+        "phone": "0265 239 0366 ",
+        "website": "",
+        "place_id": "Vatsalya+Children+Hospital",
+        "search_term": "hospitals"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.175949,
+          22.3073018
+        ]
+      },
+      "properties": {
+        "name": "Gujarat Superspeciality Hospital",
+        "category": "Hospital",
+        "address": "New India Mill Compound Nr Jetalpur Bridge, Jetalpur Rd, Vadodara, Gujarat 390007 ",
+        "rating": "4.4",
+        "reviews": "",
+        "phone": "096870 79991 ",
+        "website": "https://www.gujaratsuperspecialityhospital.com/",
+        "place_id": "Gujarat+Superspeciality+Hospital",
+        "search_term": "hospitals"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1717728,
+          22.2978837
+        ]
+      },
+      "properties": {
+        "name": "Astha Hospital",
+        "category": "Hospital",
+        "address": "Second Floor -207, Ujjwal Complex Productivity Road, Near, Shrenik Park Cir, Char Rasta, Tarangan Society, Akota, Vadodara, Gujarat 390007 ",
+        "rating": "5.0",
+        "reviews": "",
+        "phone": "0265 234 2020 ",
+        "website": "",
+        "place_id": "Astha+Hospital",
+        "search_term": "hospitals"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.156736,
+          22.314165
+        ]
+      },
+      "properties": {
+        "name": "Life Care",
+        "category": "Hospital",
+        "address": "8574+MM9, Hari Nagar Rd, Opposite Aishwarya Apartment, Behind Inox Talkies, Ellora Park, Hari Nagar, Vadodara, Gujarat 390021 ",
+        "rating": "",
+        "reviews": "",
+        "phone": "099795 08570 ",
+        "website": "",
+        "place_id": "Life+Care",
+        "search_term": "hospitals"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.174581,
+          22.308666
+        ]
+      },
+      "properties": {
+        "name": "Welfring Hospital",
+        "category": "Hospital",
+        "address": "43/A, near JadeBlue Menswear Store - Alkapuri, Vadodara, Sampatrao Colony, Jetalpur, Vadodara, Gujarat 390007 ",
+        "rating": "",
+        "reviews": "",
+        "phone": "0265 232 0153 ",
+        "website": "",
+        "place_id": "Welfring+Hospital",
+        "search_term": "hospitals"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1643 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1560274,
+          22.2883848
+        ]
+      },
+      "properties": {
+        "name": "Ansaar General Hospital",
+        "category": "Hospital",
+        "address": "GF/30, Tandalja Rd, Tandalja, Vadodara, Gujarat 390012 ",
+        "rating": "4.3",
+        "reviews": "65",
+        "phone": "085110 88838 ",
+        "website": "https://sites.google.com/view/ansaargeneralhospital",
+        "place_id": "ChIJiz0fTyLGXzkRDgKgz-AFjP8",
+        "search_term": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1530388,
+          22.2796844
+        ]
+      },
+      "properties": {
+        "name": "The Nirvaan Cafe & Lounge",
+        "category": "Cafe",
+        "address": "Sun Pharma Rd, Pramukh Swami nagar, Atladara, Vadodara, Gujarat 390012 ",
+        "rating": "4.1",
+        "reviews": "1,067",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJZ_W031LHXzkRK_PVFZyAHlE",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1522073,
+          22.2785564
+        ]
+      },
+      "properties": {
+        "name": "Jupiter Multispeciality Hospital in Vadodara | Best Hospital In Vadodara | Super Speciality Hospital",
+        "category": "Hospital",
+        "address": "Sun-Pharma Atladra Rd, opposite ICAI Bhavan, Pramukh Swami nagar, Atladara, Vadodara, Gujarat 390012 ",
+        "rating": "4.8",
+        "reviews": "2,395",
+        "phone": "063588 38381 ",
+        "website": "https://jtphospitals.com/",
+        "place_id": "ChIJI9GocD7GXzkRWPHm2dMBRvw",
+        "search_term": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1588426,
+          22.2948607
+        ]
+      },
+      "properties": {
+        "name": "Café Coffee Day",
+        "category": "Cafe",
+        "address": "No 103 & 104, Upper Grnd Flr, Aries Pavillion, Vasna Rd, Niti Park Society, Shobhana Nagar, Shivashraya Society, Tandalja, Vadodara, Gujarat 390007 ",
+        "rating": "4.2",
+        "reviews": "1,040",
+        "phone": "1800 102 5093 ",
+        "website": "https://tandalja.cafecoffeeday.com/",
+        "place_id": "ChIJIYirRCfGXzkRa1n-AdwJQas",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.159589,
+          22.3202614
+        ]
+      },
+      "properties": {
+        "name": "cafe",
+        "category": "Cafe",
+        "address": "Gf 18,19,20, S square mall, opposite Vishwamohini apartment, near Ganga jamuna hospital, Ganga Jamana Society, Subhanpura, Vadodara, Gujarat 390023 ",
+        "rating": "4.8",
+        "reviews": "47",
+        "phone": "084870 06466 ",
+        "website": "http://www.cafecup90s.com/",
+        "place_id": "ChIJ890e_b3JXzkRiYxc6FMStmo",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1584935,
+          22.2834805
+        ]
+      },
+      "properties": {
+        "name": "SANJIVANI CLINIC",
+        "category": "Medical clinic",
+        "address": "F-8, Old Padra Rd, opp. Mathuranagri Society, Tandalja, Vadodara, Gujarat 390012 ",
+        "rating": "4.9",
+        "reviews": "84",
+        "phone": "083200 88139 ",
+        "website": "",
+        "place_id": "ChIJV82yfr_HXzkRU-7u-mN_T30",
+        "search_term": "clinic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1629821,
+          22.307559
+        ]
+      },
+      "properties": {
+        "name": "New Life Hospital",
+        "category": "Hospital",
+        "address": "Lotus Court, Sampatrao Colony, Jetalpur, Vadodara, Gujarat 390007 ",
+        "rating": "",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJ6Ul1OKPIXzkRu1De_Mwl5H4",
+        "search_term": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1637752,
+          22.2813912
+        ]
+      },
+      "properties": {
+        "name": "Zydus Multispeciality and Cancer Hospital",
+        "category": "Hospital",
+        "address": "Akshar Chowk, Old Padra Rd, Hira Nagar, Tandalja, Vadodara, Gujarat 390020 ",
+        "rating": "4.9",
+        "reviews": "9,551",
+        "phone": "0265 672 0000 ",
+        "website": "https://hi.zydushospitals.com/Vadodara",
+        "place_id": "ChIJSao3EaHHXzkR2GLrjNCd4l4",
+        "search_term": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1539761,
+          22.3125987
+        ]
+      },
+      "properties": {
+        "name": "Sugarfree Sweets - Shree Narayan Sugarfree Sweets",
+        "category": "Sweet shop",
+        "address": "A12, Arpita Park Society Opp Usha Nagar, ESI hospital road, Gotri Rd, I, Hari Nagar, Vadodara, Gujarat 390021 ",
+        "rating": "4.8",
+        "reviews": "23",
+        "phone": "097272 70073 ",
+        "website": "",
+        "place_id": "ChIJqZn3ZozJXzkRsGGvqDqeoWY",
+        "search_term": "snacks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.155382,
+          22.2883162
+        ]
+      },
+      "properties": {
+        "name": "Baroda City Hospital and Dental Clinic",
+        "category": "Hospital",
+        "address": "Mahfuz Complex, WATER TANK, Tandalja Rd, opp. TANDALJA, Ayeshapark, Tandalja, Vadodara, Gujarat 390012 ",
+        "rating": "4.7",
+        "reviews": "55",
+        "phone": "",
+        "website": "http://barodacityhospital.com/",
+        "place_id": "ChIJw6lOkOHHXzkRV8-r1Ur3ktU",
+        "search_term": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.151763,
+          22.279163
+        ]
+      },
+      "properties": {
+        "name": "Bhakti Complex",
+        "category": "Apartment building",
+        "address": "Shree Bhakti Complex, Sun-Pharma Atladra Rd, Atladara, Vadodara, Gujarat 390012 ",
+        "rating": "4.4",
+        "reviews": "12",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJMYw_ZQDHXzkRl7WYTD-8Mwc",
+        "search_term": "shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1504697,
+          22.2751178
+        ]
+      },
+      "properties": {
+        "name": "M S SUPER STORE",
+        "category": "General store",
+        "address": "Labh Complex, Atladara, Vadodara, Gujarat 390012 ",
+        "rating": "4.5",
+        "reviews": "22",
+        "phone": "083470 94321 ",
+        "website": "",
+        "place_id": "ChIJCXXd_DjGXzkRgtcqnDJfqFc",
+        "search_term": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1504917,
+          22.320943
+        ]
+      },
+      "properties": {
+        "name": "Delightery Bakery And Cafe",
+        "category": "Bakery and Cake Shop",
+        "address": "Lisa Park, 53, High Tension Rd, near jyot nagar, Subhanpura, Vadodara, Gujarat 390021 ",
+        "rating": "4.2",
+        "reviews": "272",
+        "phone": "072858 59621 ",
+        "website": "",
+        "place_id": "ChIJx0aP-uzIXzkRWQdKo71MMrc",
+        "search_term": "bakery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1527394,
+          22.2806284
+        ]
+      },
+      "properties": {
+        "name": "New York bakers & Desserts",
+        "category": "Bakery and Cake Shop",
+        "address": "NEW YORK BAKERS & DESSERTS, tanishque business hub, Sun Pharma Rd, opp. Laxmi Narayan farm, Vadodara, Gujarat 390012 ",
+        "rating": "4.4",
+        "reviews": "788",
+        "phone": "099248 40602 ",
+        "website": "",
+        "place_id": "ChIJb3tDJrjHXzkRHDF38mthPi4",
+        "search_term": "bakery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.153513,
+          22.30319
+        ]
+      },
+      "properties": {
+        "name": "Canadian Bakery",
+        "category": "Bakery and Cake Shop",
+        "address": "10, C/10, Akota Rd, Vasna - Bhayli Main Rd, Manisha Park, Vai Kunth Society, Diwalipura, Vadodara, Gujarat 390007 ",
+        "rating": "4.9",
+        "reviews": "277",
+        "phone": "063510 40039 ",
+        "website": "",
+        "place_id": "ChIJiV8lPgbJXzkRhFJMYLpyKdw",
+        "search_term": "bakery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1527566,
+          22.2894823
+        ]
+      },
+      "properties": {
+        "name": "The Baking Boy",
+        "category": "Bakery and Cake Shop",
+        "address": "Patrakar char rasta, Shop No - 4 SAHIL COMPLEX, Tandalja Rd, opposite Madina resturant, Vadodara, Gujarat 390007 ",
+        "rating": "4.3",
+        "reviews": "924",
+        "phone": "097251 08865 ",
+        "website": "",
+        "place_id": "ChIJG6U2yibGXzkRH4OPdYJIPRU",
+        "search_term": "bakery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1529857,
+          22.2806288
+        ]
+      },
+      "properties": {
+        "name": "Baroda Sweets N Bakery",
+        "category": "Sweet shop",
+        "address": "Sun Pharma Rd, Soudagar Park, Tandalja, Vadodara, Gujarat 390012 ",
+        "rating": "4.6",
+        "reviews": "804",
+        "phone": "096244 94666 ",
+        "website": "http://www.barodasweetsnbakery.com/",
+        "place_id": "ChIJGSkOBw_HXzkR7FQF2z9A4H8",
+        "search_term": "sweet shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1520861,
+          22.3027423
+        ]
+      },
+      "properties": {
+        "name": "JUICIER (Fresh Juices & Milkshakes)",
+        "category": "Juice shop",
+        "address": "1, Makrand Desai Rd, opposite shreenathji market, Manisha Park, Meera Society, Saiyed Vasna, Vadodara, Gujarat 390007 ",
+        "rating": "4.7",
+        "reviews": "44",
+        "phone": "093270 86632 ",
+        "website": "",
+        "place_id": "ChIJ6XCeRQDJXzkRQYwH4LXeL9s",
+        "search_term": "juice shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1642198,
+          22.2957994
+        ]
+      },
+      "properties": {
+        "name": "Juice Junction",
+        "category": "Juice shop",
+        "address": "Gf. 2, Splendour Complex Nr. New Alka Restaurant Manisha Chowkdy, Old Padra Rd, Vadodara, Gujarat 390007 ",
+        "rating": "3.8",
+        "reviews": "48",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJ-eDyknrHXzkRgAbIkHFnSvY",
+        "search_term": "juice shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15215,
+          22.3057873
+        ]
+      },
+      "properties": {
+        "name": "Shree Roopji Store",
+        "category": "Grocery store",
+        "address": "3, Makrand Desai Rd, Gadapura, Diwalipura, Vadodara, Gujarat 390007 ",
+        "rating": "4.2",
+        "reviews": "14",
+        "phone": "0265 232 4023 ",
+        "website": "",
+        "place_id": "ChIJZUeHGJrIXzkR2WUfR-sPT8Q",
+        "search_term": "grocery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1562958,
+          22.3140838
+        ]
+      },
+      "properties": {
+        "name": "Shiv Shakti General Store",
+        "category": "General store",
+        "address": "9, Yogi Center, Odhavpura Road, opp. Aishwaraya Apartment, Ellora Park, Hari Nagar, Vadodara, Gujarat 390021 ",
+        "rating": "4.4",
+        "reviews": "49",
+        "phone": "0265 239 0059 ",
+        "website": "",
+        "place_id": "ChIJSxJj0JXIXzkRFTGkK8rR1IA",
+        "search_term": "grocery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1521739,
+          22.280303
+        ]
+      },
+      "properties": {
+        "name": "Leocor Gym & Fitness",
+        "category": "Gym",
+        "address": "Sun Pharma Rd, opp. Newyork Bakery, near Pramukh Swami Nagar, Pramukh Swami nagar, Atladara, Vadodara, Gujarat 390012 ",
+        "rating": "4.6",
+        "reviews": "197",
+        "phone": "083202 79007 ",
+        "website": "https://www.leocorgym.com/",
+        "place_id": "ChIJpUCnmJ7HXzkRz78lqWh9230",
+        "search_term": "gym"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1528296,
+          22.2815976
+        ]
+      },
+      "properties": {
+        "name": "Gymnation",
+        "category": "Gym",
+        "address": "4th Floor, Taiba hub, Sun Pharma Rd, opposite Union bank, Soudagar Park, Tandalja, Vadodara, Gujarat 390012 ",
+        "rating": "4.9",
+        "reviews": "221",
+        "phone": "099137 13555 ",
+        "website": "",
+        "place_id": "ChIJReBQnzbHXzkRh9XUHMRZTBY",
+        "search_term": "gym"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.155139,
+          22.327069
+        ]
+      },
+      "properties": {
+        "name": "Fitness Track Gym",
+        "category": "Gym",
+        "address": "3rd Floor Kirti Square Subhanpura Road Above Axis Bank, Nr. Achariya Hospital, Ellora Park, Subhanpura, Vadodara, Gujarat 390023 ",
+        "rating": "4.8",
+        "reviews": "1,290",
+        "phone": "099092 09698 ",
+        "website": "http://www.fitnesstrackgyms.com/",
+        "place_id": "ChIJnT7wBenIXzkR6QezxcjOyys",
+        "search_term": "gym"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1610336,
+          22.3158168
+        ]
+      },
+      "properties": {
+        "name": "Gladiator gym and fitness",
+        "category": "Gym",
+        "address": "A/12 swarthak appt Ellorapark oppt Domino's, beside royal Enfield showroom, Vadodara, Gujarat 390023 ",
+        "rating": "4.8",
+        "reviews": "274",
+        "phone": "088497 29048 ",
+        "website": "https://gladiator-fitness.ueniweb.com/",
+        "place_id": "ChIJz9YlPx3JXzkRYKCvO0S1t2A",
+        "search_term": "gym"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1521197,
+          22.3017485
+        ]
+      },
+      "properties": {
+        "name": "Fitness connection Gym",
+        "category": "Gym",
+        "address": "3rd Floor, Ghanshyam Complex, Iskon Road, Gotri, opposite Swaminarayan Temple, Vadodara, Gujarat 390007 ",
+        "rating": "4.5",
+        "reviews": "533",
+        "phone": "096649 19608 ",
+        "website": "",
+        "place_id": "ChIJ9ctz-ZvIXzkRJ47yKYma5i4",
+        "search_term": "gym"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.152693,
+          22.292526
+        ]
+      },
+      "properties": {
+        "name": "Majid Gym",
+        "category": "Gym",
+        "address": "SF 4/1, Jay Prakash Narayan Marg, Opposite Faiz Complex, Saraswati Society, Tandalja, Vadodara, Gujarat 390007 ",
+        "rating": "4.7",
+        "reviews": "228",
+        "phone": "087329 14235 ",
+        "website": "",
+        "place_id": "ChIJXRZRKyHGXzkRalODlzS9DZE",
+        "search_term": "gym"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1578191,
+          22.3125717
+        ]
+      },
+      "properties": {
+        "name": "Equinox Workout Zone",
+        "category": "Gym",
+        "address": "Monalisa Centrum, 3rd n 4th floor, north wing besides Inox, Race Course Rd, Vadodara, Gujarat 390021 ",
+        "rating": "4.6",
+        "reviews": "126",
+        "phone": "084600 61315 ",
+        "website": "https://www.instagram.com/equinox_workoutzone?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+        "place_id": "ChIJDX1uCrfJXzkR2lmzQOXrvTg",
+        "search_term": "gym"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1636991,
+          22.28366
+        ]
+      },
+      "properties": {
+        "name": "Kaizen Fitness",
+        "category": "Fitness center",
+        "address": "B/h, Reliance Mega Mall, E301, Venus Pahel Akshar Chowk, Old Padra Rd, Vadodara, Gujarat 390007 ",
+        "rating": "5.0",
+        "reviews": "165",
+        "phone": "090999 08876 ",
+        "website": "",
+        "place_id": "ChIJxZv-M4jHXzkRwASArk4Phsw",
+        "search_term": "gym"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1506194,
+          22.3213876
+        ]
+      },
+      "properties": {
+        "name": "AK UNISEX SALON (HAIR & BEAUTY STUDIO)",
+        "category": "Hair salon",
+        "address": "shop no#42, Lisa Park 1, opp: pragati sahkari bank Lisa Park 1, High Tension Road, rode, near adhar hospital, Vadodara, Gujarat 390021 ",
+        "rating": "4.8",
+        "reviews": "202",
+        "phone": "084609 59142 ",
+        "website": "",
+        "place_id": "ChIJ16MI8ZTIXzkRoMA-j_gE6Wg",
+        "search_term": "salon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1595464,
+          22.2955021
+        ]
+      },
+      "properties": {
+        "name": "The AJ's Hair & Beauty Studio",
+        "category": "Beauty Parlour",
+        "address": "FF 6 , Siddharth Upscale, Manisha Cir, Vadodara, Gujarat 390007 ",
+        "rating": "4.8",
+        "reviews": "565",
+        "phone": "082007 69390 ",
+        "website": "",
+        "place_id": "ChIJ3XWp1CXHXzkRM-TXn1XUlv4",
+        "search_term": "salon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1646011,
+          22.2829785
+        ]
+      },
+      "properties": {
+        "name": "Yogesh Plywood & Hardware",
+        "category": "Plywood supplier",
+        "address": "4, Abhishek Complex, Old Padra Rd, Akshar Chowk, Hira Nagar, Tandalja, Vadodara, Gujarat 390007 ",
+        "rating": "4.6",
+        "reviews": "9",
+        "phone": "094267 21071 ",
+        "website": "https://www.yogeshplywood.com/",
+        "place_id": "ChIJGW2j1xvGXzkRDMA-FxlahOU",
+        "search_term": "hardware store"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1640305,
+          22.297821
+        ]
+      },
+      "properties": {
+        "name": "Aishwarya Hardware kitply",
+        "category": "Hardware store",
+        "address": "1, Suryakiran Complex, Old Padra Rd, near Bankers Heart Hospital, JP Nagar, Sukrutinagar, Diwalipura, Vadodara, Gujarat 390007 ",
+        "rating": "4.9",
+        "reviews": "155",
+        "phone": "098251 14845 ",
+        "website": "",
+        "place_id": "ChIJGW2j1xvGXzkR8m8_ox-2pnA",
+        "search_term": "hardware store"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1523082,
+          22.2772515
+        ]
+      },
+      "properties": {
+        "name": "SHIVAM HARDWARE STORE",
+        "category": "Hardware store",
+        "address": "Gf 6, Velani Heights, Sun Pharma Rd, Pratham Upvan, Vadodara, Gujarat 390012 ",
+        "rating": "5.0",
+        "reviews": "1",
+        "phone": "081076 93665 ",
+        "website": "",
+        "place_id": "ChIJGwmH5ZXHXzkRimNc_Xf0wuc",
+        "search_term": "hardware store"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1533288,
+          22.2811582
+        ]
+      },
+      "properties": {
+        "name": "Recreation Hardware",
+        "category": "Hardware store",
+        "address": "GF 22, The Earth Landmark, Sun Pharma Rd, Pramukh Swami nagar, Atladara, Vadodara, Gujarat 390012 ",
+        "rating": "4.8",
+        "reviews": "6",
+        "phone": "083200 97705 ",
+        "website": "",
+        "place_id": "ChIJW6SJhjzGXzkRbwLKhXAJG7Y",
+        "search_term": "hardware store"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1555994,
+          22.294951
+        ]
+      },
+      "properties": {
+        "name": "New fashion।।men's clothing Store",
+        "category": "Men's clothing store",
+        "address": "Gf.17 Ruturaj complex. Hdfc.bank .nr tax complex, Vasna Rd, Vadodara, Gujarat 390007 ",
+        "rating": "4.0",
+        "reviews": "6",
+        "phone": "098980 65919 ",
+        "website": "",
+        "place_id": "ChIJm4PnYSDGXzkRfeDyOInpfqA",
+        "search_term": "clothing store"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1577352,
+          22.2946163
+        ]
+      },
+      "properties": {
+        "name": "THE APPAREL STORE",
+        "category": "Clothing store",
+        "address": "Taksh Bunglows, Vasna Rd, Niti Park Society, Shivashraya Society, Tandalja, Vadodara, Gujarat 390007 ",
+        "rating": "4.2",
+        "reviews": "350",
+        "phone": "082003 32131 ",
+        "website": "",
+        "place_id": "ChIJDSAokArHXzkRs0KWtGSn_S8",
+        "search_term": "clothing store"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1527233,
+          22.2905169
+        ]
+      },
+      "properties": {
+        "name": "Fashion palace",
+        "category": "Formal Clothing Store",
+        "address": "GF - 5, Vasna - Tandalja Rd, opposite basera duplex, Patrakar Colony, Tandalja, Vadodara, Gujarat 390007 ",
+        "rating": "5.0",
+        "reviews": "20",
+        "phone": "081608 51968 ",
+        "website": "",
+        "place_id": "ChIJJwvxMMjHXzkRT9XJdeNHLYY",
+        "search_term": "clothing store"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1646508,
+          22.2980841
+        ]
+      },
+      "properties": {
+        "name": "The Clothing Unlimited (CU)",
+        "category": "Men's clothing store",
+        "address": "G-8, Old Padra Rd, opp. Avishkar Complex, JP Nagar, Sukrutinagar, Haripura, Vadodara, Gujarat 390007 ",
+        "rating": "4.8",
+        "reviews": "87",
+        "phone": "063527 52952 ",
+        "website": "https://www.smartbiz.in/Menstrendy",
+        "place_id": "ChIJb2iOTKfIXzkRxeAMG54VoVY",
+        "search_term": "clothing store"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1528376,
+          22.3123458
+        ]
+      },
+      "properties": {
+        "name": "The family restaurant",
+        "category": "restaurant",
+        "address": "Suner Complex, Hari Nagar Char Rasta, Dharampura, Vadodara, Gujarat 390007 ",
+        "rating": "4.6",
+        "reviews": "5",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJS296IwDJXzkRqjCHh5MiZQk",
+        "search_term": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1565829,
+          22.2945064
+        ]
+      },
+      "properties": {
+        "name": "Colours",
+        "category": "Men's clothing store",
+        "address": "FF 1, COLOURS कपड़ो के धुरंधर, Taksh complex, Vasna Rd, Niti Park Society, Shivashraya Society, Tandalja, Vadodara, Gujarat 390015 ",
+        "rating": "4.9",
+        "reviews": "132",
+        "phone": "098981 65986 ",
+        "website": "",
+        "place_id": "ChIJ_QUuWyDGXzkRIO3jEy88ZS8",
+        "search_term": "clothing store"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1532044,
+          22.3119491
+        ]
+      },
+      "properties": {
+        "name": "Ambika Homeopathic Pharmacy",
+        "category": "Homeopathic pharmacy",
+        "address": "GF-21, Hari Nagar Cross Rd, beside Indian Overseas Bank ATM, Hari Nagar Char Rasta, Dharampura, Vadodara, Gujarat 390007 ",
+        "rating": "4.0",
+        "reviews": "77",
+        "phone": "098255 11630 ",
+        "website": "",
+        "place_id": "ChIJ____v5TIXzkRTirQNg5hA50",
+        "search_term": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1642614,
+          22.3078215
+        ]
+      },
+      "properties": {
+        "name": "Gwalia - Sweets & Restaurant",
+        "category": "Sweet shop",
+        "address": "Emerald Shop, no 1, Race Course Rd, near Mirch Masala, Vadodara, Gujarat 390007 ",
+        "rating": "4.2",
+        "reviews": "828",
+        "phone": "096019 79989 ",
+        "website": "https://gwalia.in/?srsltid=AfmBOoo77O7oONJ8obvfgroiK7NmZC1O7tKT-ussKNaOwtahbCRZIBx8",
+        "place_id": "ChIJ-RzG9R3JXzkR9ZI0JMrGckk",
+        "search_term": "sweet shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1623341,
+          22.2912252
+        ]
+      },
+      "properties": {
+        "name": "Restaurant",
+        "category": "restaurant",
+        "address": "Shop no 5, Ground floor, Kanha Empire, Gulab Vatika Society, Tandalja Rd, near Rajvi tower, Gulabvatika Society, Sahkar Nagar, Tandalja, Vadodara, Gujarat 390007 ",
+        "rating": "",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJzVehg3LHXzkREikF41i9mL0",
+        "search_term": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1518458,
+          22.280536
+        ]
+      },
+      "properties": {
+        "name": "Sarjanam Superspeciality Hospital",
+        "category": "Hospital",
+        "address": "2nd Floor, Marvel Square, Sun Pharma Rd, Vadodara, Gujarat 390012 ",
+        "rating": "4.2",
+        "reviews": "52",
+        "phone": "063524 35691 ",
+        "website": "",
+        "place_id": "ChIJZVaolb7IXzkR6qjHv1bPknk",
+        "search_term": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1542267,
+          22.3284885
+        ]
+      },
+      "properties": {
+        "name": "The bakers king Live cake shop",
+        "category": "Bakery and Cake Shop",
+        "address": "Shop. N. 9, Aastha Avenue, Complex, New IPCL Rd, opp. Ranchhodray Masala Mill, Subhanpura, Vadodara, Gujarat 390023 ",
+        "rating": "4.0",
+        "reviews": "30",
+        "phone": "096016 01385 ",
+        "website": "",
+        "place_id": "ChIJy8qTQdfJXzkRarqWw3f276s",
+        "search_term": "bakery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1483067,
+          22.3277779
+        ]
+      },
+      "properties": {
+        "name": "The Baker's Shop",
+        "category": "Bakery and Cake Shop",
+        "address": "Bhagyalaxmi Complex, Shopping Center, F-1, Samta Rd, opposite Pawandham, Bhagyalaxmi Society, Laxmipura, Samta, Vadodara, Gujarat 390023 ",
+        "rating": "4.3",
+        "reviews": "790",
+        "phone": "090338 11085 ",
+        "website": "",
+        "place_id": "ChIJAaaiyO_IXzkRYp2fPbIxuHY",
+        "search_term": "bakery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1653481,
+          22.3042752
+        ]
+      },
+      "properties": {
+        "name": "Jagdish Foods Pvt Ltd",
+        "category": "Food court",
+        "address": "Sakar Complex, 1, Old Padra Rd, Haribhakti Extension, Malhar Point, Diwalipura, Vadodara, Gujarat 390007 ",
+        "rating": "4.4",
+        "reviews": "6,503",
+        "phone": "097250 40409 ",
+        "website": "http://www.jagdishfoods.com/",
+        "place_id": "ChIJ9RBIuEnJXzkRRtxC7BEcamc",
+        "search_term": "sweet shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1555874,
+          22.3162264
+        ]
+      },
+      "properties": {
+        "name": "Temple",
+        "category": "Hindu temple",
+        "address": "802, Dr Vikram Sarabhai Marg, Alkapuri, Gujarat 390021 ",
+        "rating": "",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJVTQLZf3JXzkRQmfJPCIxG0Q",
+        "search_term": "temple"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1643902,
+          22.2876059
+        ]
+      },
+      "properties": {
+        "name": "Enrich Salon OP Road",
+        "category": "Beauty Parlour",
+        "address": "Shop no. 8 & 9, Meraki Lattitude, Kothari Chambers, Old Padra Rd, Dev Deep Nagar, Tandalja, Vadodara, Gujarat 390007 ",
+        "rating": "4.9",
+        "reviews": "1,385",
+        "phone": "091522 83000 ",
+        "website": "https://enrichbeauty.com/",
+        "place_id": "ChIJ9dSXgAjHXzkRpjqSGv_zTqw",
+        "search_term": "salon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1567061,
+          22.2804515
+        ]
+      },
+      "properties": {
+        "name": "STYLIN STUDIO 7 unisex salon",
+        "category": "Hair salon",
+        "address": "FF 7-8, Sun Pharma Rd, nr. HCG CANCER HOSPITAL, Mathura Nagri Society, Atladara, Vadodara, Gujarat 390012 ",
+        "rating": "4.8",
+        "reviews": "39",
+        "phone": "070966 90611 ",
+        "website": "",
+        "place_id": "ChIJt66feQTHXzkR6KACr7rVEQk",
+        "search_term": "salon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1571818,
+          22.2808044
+        ]
+      },
+      "properties": {
+        "name": "A-One Hair & Beauty Studio",
+        "category": "Beauty Parlour",
+        "address": "Aone House, Pramukh Darshan Society, Near Shreeji Bungalow, Sun Pharma Rd, Vadodara, Gujarat 390012 ",
+        "rating": "4.1",
+        "reviews": "550",
+        "phone": "097256 62020 ",
+        "website": "https://aonehnb.com/",
+        "place_id": "ChIJjySbASXHXzkRHfrOJqB-ZUQ",
+        "search_term": "salon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1621844,
+          22.2952049
+        ]
+      },
+      "properties": {
+        "name": "Purple Salon & Wellness",
+        "category": "Hairdresser",
+        "address": "Ground Floor, Briyosis-1, Vasna Rd, near Manisha Circle, Sahkar Nagar, Tandalja, Vadodara, Gujarat 390020 ",
+        "rating": "4.6",
+        "reviews": "254",
+        "phone": "095748 30005 ",
+        "website": "https://www.purplesalon.co.in/",
+        "place_id": "ChIJZWiWbdrHXzkRtMrwJrA5UZw",
+        "search_term": "salon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1540659,
+          22.2942421
+        ]
+      },
+      "properties": {
+        "name": "Castle Unisex Salon - Best Salon in Vadodara",
+        "category": "Beauty Parlour",
+        "address": "GF-28,Siddarth Excellence, Vasna Rd, opp. D-Mart, Vadodara, Gujarat 390007 ",
+        "rating": "4.8",
+        "reviews": "98",
+        "phone": "097149 46208 ",
+        "website": "http://vadodarahelpline.com/castle-unisex-salon",
+        "place_id": "ChIJGw5uTxHHXzkRB_op0btgJFw",
+        "search_term": "salon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1647851,
+          22.2822383
+        ]
+      },
+      "properties": {
+        "name": "Total Fitness Gym",
+        "category": "Gym",
+        "address": "Akshar Chowk, Hira Nagar, Muj Mahuda, Vadodara, Gujarat 390007 ",
+        "rating": "4.9",
+        "reviews": "18",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJUdn4lGjHXzkRfBU2yqXAcZk",
+        "search_term": "gym"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1644188,
+          22.2970493
+        ]
+      },
+      "properties": {
+        "name": "A-One Hair & Beauty Studio",
+        "category": "Hair salon",
+        "address": "G-3, Anmol Complex, Opposite Mc Donalds, Manisha Cross Road, Old Padra Rd, Vadodara, Gujarat 390007 ",
+        "rating": "4.2",
+        "reviews": "1,061",
+        "phone": "072030 91113 ",
+        "website": "https://aonehnb.com/",
+        "place_id": "ChIJjzyyqqDIXzkRcuB_GsscqsA",
+        "search_term": "salon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1603666,
+          22.2956761
+        ]
+      },
+      "properties": {
+        "name": "Family Food Court",
+        "category": "restaurant",
+        "address": "1st Floor, Siddharth Upscale, Opp Binanagar, Vasna Rd, Tagore Nagar, Diwalipura, Vadodara, Gujarat 390007 ",
+        "rating": "4.0",
+        "reviews": "1",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJGZeB7h_GXzkRUJGzowbHIOw",
+        "search_term": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1605669,
+          22.3170485
+        ]
+      },
+      "properties": {
+        "name": "Southern Enterprise",
+        "category": "Indian grocery store",
+        "address": "GF Shop no.1 43/265 MIG Flats & shops, Nr, Aatmajyoti Ashram Rd, Near Sai Baba Temple, Ellora Park, Vadodara, Gujarat 390023 ",
+        "rating": "4.2",
+        "reviews": "197",
+        "phone": "098240 16873 ",
+        "website": "",
+        "place_id": "ChIJi5OItr_IXzkRg23PYJ1jEG4",
+        "search_term": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1521841,
+          22.3054704
+        ]
+      },
+      "properties": {
+        "name": "Elegance Family Salon",
+        "category": "Hair salon",
+        "address": "Mother School Crossing, SB-11, Pratham Complex Makrand Desai Rd, Iskcon Temple Rd, Gadapura, Diwalipura, Vadodara, Gujarat 390007 ",
+        "rating": "4.5",
+        "reviews": "156",
+        "phone": "099041 73047 ",
+        "website": "",
+        "place_id": "ChIJC1qOI5rIXzkRn0HYRqShERM",
+        "search_term": "salon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1594398,
+          22.30851
+        ]
+      },
+      "properties": {
+        "name": "Welcome Hair Art Beauty Parlour",
+        "category": "Beauty Parlour",
+        "address": "Race Course Rd, Paris Nagar, Diwalipura, Vadodara, Gujarat 390007 ",
+        "rating": "4.9",
+        "reviews": "21",
+        "phone": "090168 91709 ",
+        "website": "",
+        "place_id": "ChIJ_YRoT73IXzkRs5w_0dNGp90",
+        "search_term": "salon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1587379,
+          22.2948937
+        ]
+      },
+      "properties": {
+        "name": "Creative Stylista Boutique",
+        "category": "Boutique",
+        "address": "Aries Pavilion, Vasna Rd, above Cafe Coffee Day, Niti Park Society, Shobhana Nagar, Shivashraya Society, Tandalja, Vadodara, Gujarat 390007 ",
+        "rating": "4.7",
+        "reviews": "217",
+        "phone": "090334 64780 ",
+        "website": "http://www.creativestylista.com/",
+        "place_id": "ChIJF2hQw4zPXzkRpEZRRyXovBU",
+        "search_term": "clothing store"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1527937,
+          22.3035937
+        ]
+      },
+      "properties": {
+        "name": "Snack King",
+        "category": "snacks",
+        "address": "GROUND FLOOR, MERIDIAN PRIME, OPP WARD, NO.11, Gadapura, Diwalipura, Vadodara, Gujarat 390007 ",
+        "rating": "3.0",
+        "reviews": "1",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJ9ZzbwlfJXzkRSrUKHqmM4JE",
+        "search_term": "snacks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.156736,
+          22.314165
+        ]
+      },
+      "properties": {
+        "name": "Life Care",
+        "category": "Hospital",
+        "address": "8574+MM9, Hari Nagar Rd, Opposite Aishwarya Apartment, Behind Inox Talkies, Ellora Park, Hari Nagar, Vadodara, Gujarat 390021 ",
+        "rating": "",
+        "reviews": "",
+        "phone": "099795 08570 ",
+        "website": "",
+        "place_id": "ChIJN_Om3JXIXzkRe9WiTsfSG5Y",
+        "search_term": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.160444,
+          22.31883
+        ]
+      },
+      "properties": {
+        "name": "Vatsalya Children Hospital",
+        "category": "Children's hospital",
+        "address": "2nd Flr, Siddhi Vinayak Complex, Bank Of India Lane, Ellora Park, Subhanpura, Vadodara, Gujarat 390023 ",
+        "rating": "4.3",
+        "reviews": "6",
+        "phone": "0265 239 0366 ",
+        "website": "",
+        "place_id": "ChIJ0UKOkb_IXzkRvvn6sDkuUOY",
+        "search_term": "hospital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1586877,
+          22.2953167
+        ]
+      },
+      "properties": {
+        "name": "REFRESH Juice, Snacks & more",
+        "category": "Juice shop",
+        "address": "Vasna Rd, Niti Park Society, Tagore Nagar, Diwalipura, Vadodara, Gujarat 390007 ",
+        "rating": "4.5",
+        "reviews": "23",
+        "phone": "072269 48440 ",
+        "website": "",
+        "place_id": "ChIJMSySSo_HXzkREwaP2Xo_WWg",
+        "search_term": "juice shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15088,
+          22.323727
+        ]
+      },
+      "properties": {
+        "name": "Shakti Natural Juice Center",
+        "category": "Juice shop",
+        "address": "Shop 1, chayan complex, Arunachal Rd, opposite Nirmeet women’s hospital, Subhanpura, Vadodara, Gujarat 390023 ",
+        "rating": "4.7",
+        "reviews": "6",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJXaBqMgrJXzkRu4NbUmzuVBA",
+        "search_term": "juice shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1593859,
+          22.2895134
+        ]
+      },
+      "properties": {
+        "name": "Mar Gregorios Orthodox Syrian Valiyapally",
+        "category": "Orthodox church",
+        "address": "75Q5+RQ2, Tandalja, Vadodara, Gujarat 390007 ",
+        "rating": "4.5",
+        "reviews": "64",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJ-ZS_vBjGXzkRh_lhl6gHnLs",
+        "search_term": "church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1533466,
+          22.3133123
+        ]
+      },
+      "properties": {
+        "name": "Trinity Methodist Church",
+        "category": "United Methodist church",
+        "address": "Kameshwar Rd, Gotri Rd, Near Harinagar Society, Hari Nagar, Vadodara, Gujarat 390021 ",
+        "rating": "4.4",
+        "reviews": "40",
+        "phone": "0265 239 8014 ",
+        "website": "",
+        "place_id": "ChIJ36SD_V3IXzkRjdcTjYZ9dQ4",
+        "search_term": "church"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1580417,
+          22.3087076
+        ]
+      },
+      "properties": {
+        "name": "Vrindavaneshvar Mahadev Temple",
+        "category": "Hindu temple",
+        "address": "8555+F6M, Kalindi Twin Bungalows Rd, Pashabhai Park, Paris Nagar, Diwalipura, Vadodara, Gujarat 390007 ",
+        "rating": "4.4",
+        "reviews": "7",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJuU_k5JfIXzkRDk1dkRwThW0",
+        "search_term": "temple"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1536704,
+          22.3108836
+        ]
+      },
+      "properties": {
+        "name": "Valaji Medicine Shoppe",
+        "category": "Pharmacy",
+        "address": "GF/1, Krishna Complex, Makrand Desai Rd, Hari Nagar Char Rasta,Opposite Bank Of Baroda, Gadapura, Dharampura, Vadodara, Gujarat 390007 ",
+        "rating": "5.0",
+        "reviews": "2",
+        "phone": "0265 234 2660 ",
+        "website": "",
+        "place_id": "ChIJ____v5TIXzkRejyevyVBuBQ",
+        "search_term": "medical store"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1482941,
+          22.3276639
+        ]
+      },
+      "properties": {
+        "name": "WELLNESS PHARMACY",
+        "category": "Pharmacy",
+        "address": "Bhagyalaxmi Shopping Center, F 4, Samta Rd, beside Vasundhara Jewellers, Bhagyalaxmi Society, Subhanpura, Vadodara, Gujarat 390023 ",
+        "rating": "5.0",
+        "reviews": "9",
+        "phone": "078786 46424 ",
+        "website": "",
+        "place_id": "ChIJZ8fyzL_JXzkRFqBrbzcryvk",
+        "search_term": "medical store"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1559031,
+          22.3143623
+        ]
+      },
+      "properties": {
+        "name": "happy hair and beauty saloon",
+        "category": "Beauty Parlour",
+        "address": "B/h, ICICI Bank, Shop no 18 park Avenue, Aatmajyoti Ashram Rd, ellora, Gujarat 390021 ",
+        "rating": "5.0",
+        "reviews": "6",
+        "phone": "099983 66910 ",
+        "website": "",
+        "place_id": "ChIJ6wePqPjJXzkR6zvgbUnXktU",
+        "search_term": "salon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1587802,
+          22.3207959
+        ]
+      },
+      "properties": {
+        "name": "Instaglam Salon, Only For Her",
+        "category": "Beauty Parlour",
+        "address": "FF 1, 2, 22 & 23, Pujer Complex, Subhanpura, Vadodara, Gujarat 390023 ",
+        "rating": "4.8",
+        "reviews": "261",
+        "phone": "085118 15151 ",
+        "website": "https://instaglam.beauty/",
+        "place_id": "ChIJUUxLoxjJXzkRgDNhM5H4Mk0",
+        "search_term": "salon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1563196,
+          22.3217134
+        ]
+      },
+      "properties": {
+        "name": "Eminence Hair",
+        "category": "Hair replacement service",
+        "address": "Shreenath Complex, GF6, High Tension Rd, near Reliance & Indian Petrol Pump, Subhanpura, Vadodara, Gujarat 390023 ",
+        "rating": "4.7",
+        "reviews": "225",
+        "phone": "",
+        "website": "http://www.eminencehair.com/",
+        "place_id": "ChIJZw9b-urIXzkRHkDlURYz4Dc",
+        "search_term": "salon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.160755,
+          22.317586
+        ]
+      },
+      "properties": {
+        "name": "Western Hair Dresser",
+        "category": "Hair salon",
+        "address": "GF-3, Parshwa Complex, Ellora Park Rd, Opposite Adalja Complex, Ellora Park, Subhanpura, Vadodara, Gujarat 390023 ",
+        "rating": "4.4",
+        "reviews": "131",
+        "phone": "098793 51802 ",
+        "website": "",
+        "place_id": "ChIJVwWyur_IXzkR-coMfdAqb0w",
+        "search_term": "salon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1581624,
+          22.3111638
+        ]
+      },
+      "properties": {
+        "name": "Iconiea Salon",
+        "category": "Beauty Parlour",
+        "address": "GF 2, Overseas Avenue, Natubhai Cir, opp. The Shoppe, Hari Nagar, Vadodara, Gujarat 390007 ",
+        "rating": "4.6",
+        "reviews": "436",
+        "phone": "090236 28320 ",
+        "website": "",
+        "place_id": "ChIJe1n9jA3JXzkRRNXtWk1L6x8",
+        "search_term": "salon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1610088,
+          22.3164092
+        ]
+      },
+      "properties": {
+        "name": "Newport Land",
+        "category": "Clothing store",
+        "address": "Teen Rasta, Odhavpura, Ellora Park, Hari Nagar, Vadodara, Gujarat 390007 ",
+        "rating": "4.9",
+        "reviews": "96",
+        "phone": "092655 29463 ",
+        "website": "https://vadodarahelpline.com/new-portland-enel",
+        "place_id": "ChIJWzHtrb_IXzkRiWBbnnTxD50",
+        "search_term": "clothing store"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1555864,
+          22.3162533
+        ]
+      },
+      "properties": {
+        "name": "medical store",
+        "category": "Medical office",
+        "address": "gf, tithi heights, opp. rutva heights, Citizen Society, Hari Nagar, Vadodara, Gujarat 390021 ",
+        "rating": "",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "ChIJn4JHh6_JXzkRBj3lRBHPcnQ",
+        "search_term": "medical store"
+      }
+    }
+  ]
+}

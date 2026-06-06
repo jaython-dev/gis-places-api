@@ -11,6 +11,21 @@ services:
     volumes:
       - pgdata:/var/lib/postgresql/data
 
+  web:
+    build: .
+    command: python manage.py runserver 0.0.0.0:8000
+    volumes:
+      - .:/app
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    dns:
+      - 8.8.8.8
+      - 8.8.4.4
+    depends_on:
+      - db
+
   osrm-data-downloader:
     image: alpine
     volumes:
@@ -24,21 +39,52 @@ services:
         # wget -O /data/map.osm.pbf https://download.geofabrik.de/asia/india-latest.osm.pbf;
       fi"
 
-  osrm:
+  osrm-car:
     image: osrm/osrm-backend
     ports:
-      - "5000:5000"
+      - "5001:5000"
     depends_on:
       osrm-data-downloader:
         condition: service_completed_successfully
     volumes:
       - osrm-data:/data
     command: >
-      sh -c "if [ ! -f /data/map.osrm ]; then
-        osrm-extract -p /opt/car.lua /data/map.osm.pbf &&
-        osrm-partition /data/map.osrm &&
-        osrm-customize /data/map.osrm;
-      fi && osrm-routed --algorithm mld /data/map.osrm"
+      sh -c "if [ ! -f /data/car.osrm ]; then
+        ln -sf /data/map.osm.pbf /data/car.osm.pbf &&
+        osrm-extract -p /opt/car.lua /data/car.osm.pbf &&
+        osrm-partition /data/car.osrm &&
+        osrm-customize /data/car.osrm;
+      fi && osrm-routed --algorithm mld /data/car.osrm"
+
+  osrm-foot:
+    image: osrm/osrm-backend
+    depends_on:
+      osrm-data-downloader:
+        condition: service_completed_successfully
+    volumes:
+      - osrm-data:/data
+    command: >
+      sh -c "if [ ! -f /data/foot.osrm ]; then
+        ln -sf /data/map.osm.pbf /data/foot.osm.pbf &&
+        osrm-extract -p /opt/foot.lua /data/foot.osm.pbf &&
+        osrm-partition /data/foot.osrm &&
+        osrm-customize /data/foot.osrm;
+      fi && osrm-routed --algorithm mld /data/foot.osrm"
+
+  osrm-bicycle:
+    image: osrm/osrm-backend
+    depends_on:
+      osrm-data-downloader:
+        condition: service_completed_successfully
+    volumes:
+      - osrm-data:/data
+    command: >
+      sh -c "if [ ! -f /data/bicycle.osrm ]; then
+        ln -sf /data/map.osm.pbf /data/bicycle.osm.pbf &&
+        osrm-extract -p /opt/bicycle.lua /data/bicycle.osm.pbf &&
+        osrm-partition /data/bicycle.osrm &&
+        osrm-customize /data/bicycle.osrm;
+      fi && osrm-routed --algorithm mld /data/bicycle.osrm"
 
 volumes:
   pgdata:

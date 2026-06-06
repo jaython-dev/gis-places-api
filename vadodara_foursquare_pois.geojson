@@ -1,0 +1,2717 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.20102046063292,
+          22.30020139828782
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4d244d30daa9370430dac381",
+        "name": "Canara coffee house",
+        "address": "Raopura, Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Coffee Shop, Snack Place",
+        "timezone": null,
+        "website": null,
+        "tel": "0265 242 2429",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.20100394620016,
+          22.303380987339
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4f001a73f9abd5b390d078a7",
+        "name": "Kathiyawadi khadki",
+        "address": "Besides GEB, (Tower cross,roapura), Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Indian Restaurant",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1983617160426,
+          22.295806848979755
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4e284af7091a1ba18da87426",
+        "name": "Mahakali Sev Usal",
+        "address": "Rajmahal Road, Vadodara 390001, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390001",
+        "categories": "Indian Restaurant",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.19502986362487,
+          22.29916555709046
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4d830e43d5fab60ce382c49b",
+        "name": "The Lukshmi Vilas Palace",
+        "address": "Rajmahal Road, Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "History Museum",
+        "timezone": null,
+        "website": null,
+        "tel": "089801 88666",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1924201133274,
+          22.29393116828726
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4f7592e5e4b06c81e0ccc386",
+        "name": "Laxmi Vilas Palace",
+        "address": "Rajmahal Road, Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Historic and Protected Site",
+        "timezone": null,
+        "website": "http://gujarattouristguide.blogspot.in/2014/02/laxmi-vilas-palace.html",
+        "tel": "0265 242 6372",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.18875604197498,
+          22.321751074709518
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4dbd679ef7b1ab37dd750582",
+        "name": "Raju's Omelette",
+        "address": "Karelibaugh, Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Food Truck",
+        "timezone": null,
+        "website": null,
+        "tel": "099040 71787",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.20418391380417,
+          22.2721076896488
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4d455d60bf61a1cd2f8c12ac",
+        "name": "Baroda dairy",
+        "address": "Manjalpur, Vadodara, Gujarati",
+        "country": "IN",
+        "region": "Gujarati",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Ice Cream Parlor",
+        "timezone": null,
+        "website": "http://barodadairy.in",
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.19731321373831,
+          22.322501273170044
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4f27c246e4b08c1605837364",
+        "name": "Subway",
+        "address": "4/3 & 4/4 GF Goverdhan Apartments, Near Utkarsh Petrol Pump, Muktanand (Vip Road,karelibaug), Vadodara 390018, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390018",
+        "categories": "Fast Food Restaurant, Salad Restaurant, Sandwich Spot",
+        "timezone": null,
+        "website": "http://www.orderasub.in",
+        "tel": "0265 248 0830",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.18430837842341,
+          22.308973582148074
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4ba78286f964a520319939e3",
+        "name": "Café Coffee Day",
+        "address": "Nside Crossword Book Store (Opp . Sardar patel statue,), Vadodara 390005, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390005",
+        "categories": "Coffee Shop, Café",
+        "timezone": null,
+        "website": "http://cafecoffeeday.com",
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.20024927336499,
+          22.326437282497416
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4e89cb4d5c5c4e28ce3c8fa5",
+        "name": "Raju Omlet Centre 2",
+        "address": "Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Snack Place",
+        "timezone": null,
+        "website": "http://therajuomletcentre.com",
+        "tel": "099040 71787",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.18770149575356,
+          22.30830164370385
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4c32ebb7ed37a5938f8b6c03",
+        "name": "Hotel Sayaji",
+        "address": "BOB Circle, Vadodara 390007, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390007",
+        "categories": "Indian Restaurant",
+        "timezone": null,
+        "website": "http://sayajihotels.com",
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.17497131229906,
+          22.31374515526115
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4bd54a6d6f649521bbe16eec",
+        "name": "Crossword",
+        "address": "Arunoday society, Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Bookstore",
+        "timezone": null,
+        "website": "http://www.crossword.in",
+        "tel": "0265 233 3338",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1967379919749,
+          22.325544051834207
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "51250d29e4b0b58b827d1035",
+        "name": "Ratri Bazaar",
+        "address": "Ratri Bazaar, Near L&T Circle karelibaug (Opp Farki), Vadodara 390018, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390018",
+        "categories": "Fast Food Restaurant",
+        "timezone": null,
+        "website": null,
+        "tel": "0265 297 0087",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1869297451551,
+          22.32311725026457
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4d5e63cd149637041aebc894",
+        "name": "McDonald's",
+        "address": "7Seas, Fatehgunj, Vadodara 390002, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390002",
+        "categories": "Fast Food Restaurant",
+        "timezone": null,
+        "website": "https://mcdindia.com",
+        "tel": "089283 04068",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.18691822273068,
+          22.32280429736892
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4d19614a401db60cf22bfaa4",
+        "name": "Inox 7 seas",
+        "address": "Fatehgunj, Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Movie Theater",
+        "timezone": null,
+        "website": "http://inoxmovies.com",
+        "tel": "084605 59756",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.18986287774577,
+          22.323871383239357
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4fedf8eee4b0caa9abc96e11",
+        "name": "Café Coffee Day",
+        "address": "Fatehgunj",
+        "country": "IN",
+        "region": null,
+        "locality": null,
+        "postcode": "",
+        "categories": "Coffee Shop, Café",
+        "timezone": null,
+        "website": "https://www.cafecoffeeday.com",
+        "tel": "093776 45012",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1877354903522,
+          22.318847841478487
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4d3ee1c3557d6dcbbf005344",
+        "name": "Café Coffee Day",
+        "address": "The plaza shop no 1, coffee n u opposite saffron complex (Fategunj main road), Vadodara 390002, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390002",
+        "categories": "Coffee Shop, Café",
+        "timezone": null,
+        "website": "https://www.cafecoffeeday.com",
+        "tel": "093776 96330",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.22892505546156,
+          22.305871574927348
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "515ef4e7e4b0c134498f679a",
+        "name": "subway",
+        "address": "Riddhi Siddhi Society (Mahavir Cross Roads), Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Sandwich Spot, Fast Food Restaurant",
+        "timezone": null,
+        "website": "http://www.subway.com/en-IN",
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.17607161263082,
+          22.308334290371334
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4e9d9c3c0aaf015a06083907",
+        "name": "That Place",
+        "address": "33, Sampatrao Colony (Alkapuri), Vadodara 390007, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390007",
+        "categories": "Italian Restaurant, Mediterranean Restaurant",
+        "timezone": null,
+        "website": null,
+        "tel": "0265 231 0222",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.231,
+          22.3
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "53f9fc1a498e83dc4d0efac0",
+        "name": "Domino's Pizza",
+        "address": "Ground Floor and First Floor,B - 33, Uma Colony, Uma Co-operative Housing Society Limited B Vibhag, aghodia Road,F.P. No. 430,, Vadodara 390019, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390019",
+        "categories": "Pizzeria",
+        "timezone": null,
+        "website": "https://www.dominos.co.in",
+        "tel": "0265 257 4070",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16846670558866,
+          22.311148934851754
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4de34baeb3ad5eaa5aa56a6c",
+        "name": "Vishal Sandwich",
+        "address": "R.C. Dutt Road, Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": null,
+        "categories": "Sandwich Spot",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.17458663184574,
+          22.293348940027016
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4d0e21b2eea9b60c5825623f",
+        "name": "Kai Asia",
+        "address": "Akota Gardens, Vadodara 390020, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390020",
+        "categories": "Asian Restaurant",
+        "timezone": null,
+        "website": "http://www.thegatewayhotels.com/",
+        "tel": "0265 661 7676",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.17182321930348,
+          22.312325750788332
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "5129c6e6e4b004fb885f7ad1",
+        "name": "Fiorella Ristorante & Pizzeria",
+        "address": "Hotel Express Residency, 18/19 Alkapuri Society (RC Dutt Road, near RBS Bank), Vadodara 390007, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390007",
+        "categories": "Italian Restaurant",
+        "timezone": null,
+        "website": "http://www.expresshotelsindia.com",
+        "tel": "092278 81062",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.17093550994586,
+          22.310547348610662
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4cc007f2985aa35dcc504a12",
+        "name": "Barbeque Nation",
+        "address": "Near Ivory Terrace, Alkapuri (INOX Road), Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "BBQ Joint",
+        "timezone": null,
+        "website": "https://www.barbequenation.com",
+        "tel": "0265 606 0000",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16818774392969,
+          22.308387578704284
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "50f42a83e4b0694b2d40c43e",
+        "name": "Khamma Ghani",
+        "address": "Jetalpur Rd., Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Indian Restaurant",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.18863094232772,
+          22.321487998154527
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4ce0de62c4f6a35dca52d86c",
+        "name": "Jojo's Soul Food Kitchen",
+        "address": "Emperor building (Fathgunj), Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Chinese Restaurant",
+        "timezone": null,
+        "website": null,
+        "tel": "099243 69169",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.17059899846953,
+          22.312968618825952
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4d3edaa2457cb60c904c04a5",
+        "name": "Little Italy",
+        "address": "Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Italian Restaurant",
+        "timezone": null,
+        "website": "http://littleitaly.in",
+        "tel": "0265 235 4937",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.18686637181354,
+          22.323095271274
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4c7206a2ad69b60c619e82b9",
+        "name": "7 Seas Mall",
+        "address": "near ipcl circle (fatehgunj), Vadodara 390002, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390002",
+        "categories": "Shopping Mall",
+        "timezone": null,
+        "website": "https://www.inoxmovies.com/index.aspx",
+        "tel": "0265 278 3333",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.18790338788904,
+          22.31948547799164
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4f0f0892e4b01ae2409c609f",
+        "name": "Rangoli Restaurant",
+        "address": "Fatehgunj Main Road (Opposite Methodist Church), Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Indian Restaurant",
+        "timezone": null,
+        "website": "http://www.rangolirestaurant.in",
+        "tel": "0265 279 4040",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16571295763562,
+          22.3017535512835
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4fabc783e4b08e1c182108b3",
+        "name": "Havmor Restaurant",
+        "address": "OP Road (Old Padra Road), Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Indian Restaurant, Fast Food Restaurant",
+        "timezone": null,
+        "website": "http://havmor.com",
+        "tel": "0265 235 0202",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16480560643512,
+          22.298321613653094
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4f539666e4b0ac6d0d48343c",
+        "name": "Pizza on the Rock",
+        "address": "1 Maryland Complex, Opposite Avishkar Complex, O.P.Road (O P Road), Vadodara 390007, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390007",
+        "categories": "Pizzeria, Italian Restaurant, Fast Food Restaurant",
+        "timezone": null,
+        "website": "http://www.pizzaontherock.com",
+        "tel": "096877 74992",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.17517903549152,
+          22.309543805954114
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4d404b94915a37049901147f",
+        "name": "San's Sizzlers",
+        "address": "Gr. Floor, Mangaldhara Complex, 83, Samaptrao Colony, Alkapuri, Vadodara 390007, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390007",
+        "categories": "Italian Restaurant",
+        "timezone": null,
+        "website": null,
+        "tel": "0265 233 2526",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.18815047866093,
+          22.319810990467786
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "50f03f3ee4b0876c449661b8",
+        "name": "The Chocolate Room",
+        "address": "",
+        "country": "IN",
+        "region": null,
+        "locality": null,
+        "postcode": "",
+        "categories": "Café",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.18111084587255,
+          22.330362258239578
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4ee475148b81bab28378d884",
+        "name": "Tasty Vadapaav Center",
+        "address": "",
+        "country": "IN",
+        "region": null,
+        "locality": null,
+        "postcode": "",
+        "categories": "Fast Food Restaurant",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16910171687864,
+          22.300523029904234
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4fa63176e4b0baf7cde1e961",
+        "name": "The Grand Bhagvati",
+        "address": "Galleria Mall (Next to Sir Sayajirao Town Hall), Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Asian Restaurant",
+        "timezone": null,
+        "website": "http://thegrandbhagwati.com",
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16955568636352,
+          22.318144463490782
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4d8c71ee1412dcb380df5307",
+        "name": "Centre Square Mall",
+        "address": "Alkapuri, opposite Vadodara Central Mall (Genda circle), Vadodara 390007, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390007",
+        "categories": "Shopping Mall",
+        "timezone": null,
+        "website": "http://www.centresquare.in",
+        "tel": "0265 307 8282",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.17128250673852,
+          22.30967336237146
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "50b39563e4b07e0dfcd13adc",
+        "name": "Ustad Miyaan",
+        "address": "Vishwas Colony (Alkapuri), Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "BBQ Joint",
+        "timezone": null,
+        "website": null,
+        "tel": "080674 66725",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16425797509847,
+          22.30439319276892
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4de237f98130cfd909710769",
+        "name": "Maruti Nandan Soda Centre",
+        "address": "Lions Hall Road (Old Padra Road), Vadodara 390001, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390001",
+        "categories": "Snack Place",
+        "timezone": null,
+        "website": null,
+        "tel": "080674 66725",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16907229883378,
+          22.310538605063616
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4edf883fb8f76b6e9dbb264c",
+        "name": "24 Carats - Express Towers",
+        "address": "R C Dutt Rd, Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Indian Restaurant",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.17537821912403,
+          22.310587167808613
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4cf36c5dcc61a35d3e15209e",
+        "name": "Chung faa",
+        "address": "Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Chinese Restaurant",
+        "timezone": null,
+        "website": null,
+        "tel": "0265 234 3436",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.18665896802568,
+          22.323147963267246
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4f50f285e4b07af68e1e58c2",
+        "name": "Subway",
+        "address": "7seas (Fatehgunj), Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Sandwich Spot, Fast Food Restaurant",
+        "timezone": null,
+        "website": "http://www.subway.com/en-IN",
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.17083234432783,
+          22.307841939519125
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4ef0b2dd9a52cecf433bf559",
+        "name": "Swagat Restaurant",
+        "address": "Jetalpur Road, Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Indian Restaurant",
+        "timezone": null,
+        "website": "http://www.swagatsupersweetcorn.com",
+        "tel": "0265 231 3536",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16479828212516,
+          22.2970577380779
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4d5a7cb51d4a8cfaf4b598ed",
+        "name": "McDonald's",
+        "address": "OP Road (Old Padra Road), Vadodara 390020, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390020",
+        "categories": "Fast Food Restaurant",
+        "timezone": null,
+        "website": "https://mcdindia.com",
+        "tel": "0265 320 4733",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.17248893009501,
+          22.31084382667574
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4df206f51f6e818dadfa7e63",
+        "name": "Bombay Sandwich",
+        "address": "RC Dutt Road, Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Snack Place",
+        "timezone": null,
+        "website": null,
+        "tel": "075676 71016",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16958869457967,
+          22.318163353033277
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "5026815de4b042eaf7cdacfa",
+        "name": "The Barbeque Grill (TBG)",
+        "address": "Center Square Mall, Vadodara 390007, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390007",
+        "categories": "BBQ Joint",
+        "timezone": null,
+        "website": "http://thebarbequegrill.in",
+        "tel": "0265 654 1998",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1648577573099,
+          22.311400321890112
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "5247d0a2498e5ca5168f6335",
+        "name": "Tomato's The Diner",
+        "address": "Besides IDBI Bank (Near Ambedkar circle, Alkapuri), Vadodara 390007, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390007",
+        "categories": "Mexican Restaurant, Chinese Restaurant, Indian Restaurant",
+        "timezone": null,
+        "website": "http://www.tomatos.co.in",
+        "tel": "099098 66606",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16563944917245,
+          22.322273233330094
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "542cc3c3498e8a7f4a6d2b2d",
+        "name": "Cinépolis",
+        "address": "2nd Floor, Inorbit Mall (Gorwa Road), Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Movie Theater",
+        "timezone": null,
+        "website": "http://www.cinepolisindia.com",
+        "tel": "097278 98051",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16955852536059,
+          22.300059197031295
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "5066ec25e4b05eea6f953eea",
+        "name": "shambhu's Coffee Bar",
+        "address": "Akota, Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Café",
+        "timezone": null,
+        "website": "http://shambhuscoffeebar.com",
+        "tel": "0265 650 5555",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16899956462038,
+          22.286753420577
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4eb6c05029c212fb6cf43fb9",
+        "name": "Royal Orchid Hotel",
+        "address": "",
+        "country": "IN",
+        "region": null,
+        "locality": null,
+        "postcode": "",
+        "categories": "Hotel Bar",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16950394740546,
+          22.318246762966027
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4e23188c18a88345f05d3567",
+        "name": "Mukta A2 Cinemas",
+        "address": "Centre Square Mall, Alkapuri, Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": null,
+        "categories": "Movie Theater",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15180090388957,
+          22.333119992332637
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "50f264bee4b07f0410c16cbe",
+        "name": "Gorwa",
+        "address": "",
+        "country": "IN",
+        "region": null,
+        "locality": null,
+        "postcode": "",
+        "categories": "",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15271707704389,
+          22.336896666689558
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "52c01c84498e581dbf5739b9",
+        "name": "Bhagya Laxmi Society",
+        "address": "Behind Gorwa ITI (Gorwa), Vadodara 390016, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390016",
+        "categories": "Housing Development",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15805846574858,
+          22.325072373077962
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4f426a48e4b080aa7a49eae7",
+        "name": "Garden",
+        "address": "Subhanpura (New Ipcl road), Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Garden Center, Garden",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15830622937796,
+          22.324895181548147
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4fbe42d6e4b06a5f15642592",
+        "name": "Barista",
+        "address": "Bird Circle",
+        "country": "IN",
+        "region": null,
+        "locality": null,
+        "postcode": "",
+        "categories": "Coffee Shop",
+        "timezone": null,
+        "website": "https://www.barista.co.in",
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16572815628187,
+          22.322225559955474
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "521c54b011d2624bc3c9cbe4",
+        "name": "Inorbit mall",
+        "address": "Gorwa (Alembic gorwa road), Vadodara 390023, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390023",
+        "categories": "Shopping Mall",
+        "timezone": null,
+        "website": "https://www.timezonegames.com/en-in/locations/timezone-inorbit-mall-vadodara",
+        "tel": "0265 400 1195",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.14811312550785,
+          22.327736469966496
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4f5f98e8e4b0ea7357c63ab0",
+        "name": "The Bakers Shop",
+        "address": "Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": null,
+        "postcode": "",
+        "categories": "Cupcake Shop",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16214365007896,
+          22.325869905456983
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "5250341d11d2e1adb46f39c2",
+        "name": "United Way Garba",
+        "address": "",
+        "country": "IN",
+        "region": null,
+        "locality": null,
+        "postcode": "",
+        "categories": "Rock Club",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15245778313006,
+          22.33892691172672
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4ef75e6bf9ab2e6681f6215c",
+        "name": "King Soda Pub",
+        "address": "Satyam Apartment, Vadodara 390016, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390016",
+        "categories": "Juice Bar",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16488627129075,
+          22.32222618700063
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "522dac3311d2de110358d164",
+        "name": "HyperCity",
+        "address": "Inorbit Mall (Gorwa Road), Vadodara 390003, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390003",
+        "categories": "Department Store",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16611928764908,
+          22.322092280692832
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "522b2e9411d26d68a58d3625",
+        "name": "Shoppers Stop, Inorbit",
+        "address": "",
+        "country": "IN",
+        "region": null,
+        "locality": null,
+        "postcode": "",
+        "categories": "Shopping Mall",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16,
+          22.32
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "53bab254498e04187208c948",
+        "name": "Domino's Pizza",
+        "address": "S-SQUARE,Ellorapark,Subhanpura Road, Paiki of Mouje Village Subhanpura,Vadodara 390023, Vadodara 390023, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390023",
+        "categories": "Pizzeria",
+        "timezone": null,
+        "website": "https://www.dominos.co.in",
+        "tel": "0265 239 4720",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.14983025476597,
+          22.32249259386473
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4e70b56762e14d9f13aa6385",
+        "name": "Aramana Kerala Cuisine",
+        "address": "Off High Tension road, Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16576782105376,
+          22.322275825916563
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "523c09d111d221e409a5b218",
+        "name": "McDonald's",
+        "address": "2nd Floor, Inorbit Mall (Gorwa Road, Subhanpura), Vadodara 390003, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390003",
+        "categories": "Fast Food Restaurant",
+        "timezone": null,
+        "website": "https://mcdindia.com",
+        "tel": "089283 04185",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16570444177357,
+          22.32216192659801
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "52e51599498e96eba916cd1f",
+        "name": "Pizza Hut",
+        "address": "2nd Floor, Inorbit mall (Gorwa Road), Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Pizzeria",
+        "timezone": null,
+        "website": "https://www.pizzahut.co.in",
+        "tel": "080674 66725",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16567993164062,
+          22.3222713470459
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "52fe2c9e498e31162496f0c2",
+        "name": "KFC",
+        "address": "Inorbit, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": null,
+        "postcode": "",
+        "categories": "Fried Chicken Joint, Fast Food Restaurant",
+        "timezone": null,
+        "website": "https://restaurants.kfc.co.in",
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15271131496013,
+          22.341986397289734
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "50155719e4b07ac9f254ee30",
+        "name": "Nankin chinese",
+        "address": "",
+        "country": "IN",
+        "region": null,
+        "locality": null,
+        "postcode": "",
+        "categories": "Chinese Restaurant",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16622876073944,
+          22.32189618027032
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "522f19e2498e32b794022263",
+        "name": "Café Coffee Day",
+        "address": "Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Coffee Shop, Café",
+        "timezone": null,
+        "website": "https://www.cafecoffeeday.com",
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15764936707025,
+          22.31923908815403
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "50082ce3e4b056df771a1ac1",
+        "name": "Sudha South Indian Hotel",
+        "address": "",
+        "country": "IN",
+        "region": null,
+        "locality": null,
+        "postcode": "",
+        "categories": "Restaurant",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1490408378934,
+          22.341548413427567
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4e0542cce4cdefcff6ce5aa0",
+        "name": "Atlas gym",
+        "address": "Panchvati, Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.159,
+          22.316
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4c34a405ed37a5934a2f6f03",
+        "name": "Domino's Pizza",
+        "address": "Ellora park, Vadodara 390007, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390007",
+        "categories": "Pizzeria",
+        "timezone": null,
+        "website": "https://www.dominos.co.in",
+        "tel": "0265 229 1600",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.165555,
+          22.322162
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "58ce8c509c954828275c95a0",
+        "name": "Burger King",
+        "address": "S 07, Food Court",
+        "country": "IN",
+        "region": null,
+        "locality": null,
+        "postcode": "",
+        "categories": "Fast Food Restaurant",
+        "timezone": null,
+        "website": null,
+        "tel": "080674 66725",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16034698486328,
+          22.31784439086914
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "542ed63f498e87553f0b83e5",
+        "name": "Zesty Treat",
+        "address": "S Square, Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Punjabi Restaurant",
+        "timezone": null,
+        "website": null,
+        "tel": "0265 239 9429",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.14791721060658,
+          22.318267894699883
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "509173f9e4b0504e34d9bec8",
+        "name": "Sangam hotel",
+        "address": "Golden chaukdi (National highway), Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Restaurant",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.14303080785427,
+          22.321900921684342
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4bd323e541b9ef3b9a59ffe5",
+        "name": "Sumant Park",
+        "address": "Vadodara 390021, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390021",
+        "categories": "",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16113532510789,
+          22.31589223612914
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4f93a22ee4b02d4703585da2",
+        "name": "Atmajyoti Ashram",
+        "address": "",
+        "country": "IN",
+        "region": null,
+        "locality": null,
+        "postcode": "",
+        "categories": "Temple",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15853834152222,
+          22.313981687732447
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4edbc1ada17c4dbad0de01e2",
+        "name": "Urban Spice Multi Cuisine Restaurant",
+        "address": "Near Inox Leisure Ltd., Race Course (Near Natu Bhai Circle), Vadodara 390007, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390007",
+        "categories": "Indian Restaurant",
+        "timezone": null,
+        "website": "http://www.urbanspicerestaurant.com/",
+        "tel": "0265 655 0550",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.171684,
+          22.325037
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "61fa9520f37f740a488aecbc",
+        "name": "The Brewery",
+        "address": "Alembic City, Vadodara 390003, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390003",
+        "categories": "Brewery",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.167065,
+          22.343746
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "62eccade7243b370b6b6352e",
+        "name": "Hindware Kitchen Ensemble",
+        "address": "Shop No 6 to 9, 1st Floor, Aashray Bldg,RS No 292 (Dhara Desai Road), Vadodara 390024, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390024",
+        "categories": "Electronics Store",
+        "timezone": null,
+        "website": "https://stores.hindwareappliances.com/hindware-kitchen-ensemble-nexus-enterprises-electronics-company-dhara-desai-road-vadodara-171930/Home",
+        "tel": "090994 46655",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.165869,
+          22.344811
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4af3a601d66743bab4030360",
+        "name": "Maruti Furniture",
+        "address": "31 Baroda Industrial Estate, Dharamsingh Desai Road, Chhani Jakat Naka, Vadodara 390002, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390002",
+        "categories": "",
+        "timezone": null,
+        "website": null,
+        "tel": "0265 277 7375",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.150374,
+          22.347126
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "5a390eb22632ec593ee7098f",
+        "name": "D Mart",
+        "address": "Nr Pandya Bridge (Chhani), Vadodara 391740, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "391740",
+        "categories": "Convenience Store",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.14405650015877,
+          22.318065682915883
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4f256b58e4b050258c346b09",
+        "name": "Amin party plot",
+        "address": "High Tension Main Road, Subhanpura, Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Park",
+        "timezone": null,
+        "website": null,
+        "tel": "",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.14182,
+          22.319864
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "599995214940bc4de50b8a71",
+        "name": "Signet Plaza",
+        "address": "Vadodara 390021, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390021",
+        "categories": "Structure",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.14551151730257,
+          22.316660118946622
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "5704b16d498eac5be42b2e4f",
+        "name": "Shakti Pan & Tea",
+        "address": "Near Krunal Crossing, Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Smoke Shop",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15813337106043,
+          22.313795619491568
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4e730ea988778d253af2ae3b",
+        "name": "Juvenas",
+        "address": "52, Haribhakti Colony (Race Course Road), Vadodara 390007, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390007",
+        "categories": "Bakery",
+        "timezone": null,
+        "website": null,
+        "tel": "0265 233 2999",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.158212,
+          22.313506
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4fb916f3e4b0fa8ed19ecb59",
+        "name": "O Mazi Re - Roof Top Restaurant",
+        "address": "Urban Spice (Race Course Road), Vadodara 390007, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390007",
+        "categories": "Restaurant",
+        "timezone": null,
+        "website": null,
+        "tel": "0265 655 0550",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16749057832642,
+          22.317033162292514
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "540b29fa498ef527c960efe7",
+        "name": "Morsel Restaurant",
+        "address": "Sarabhai Main Road, Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Restaurant",
+        "timezone": null,
+        "website": null,
+        "tel": "0265 233 3323",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15830046743616,
+          22.313358969871707
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4f685948e4b0eebfb4dbb857",
+        "name": "Shades",
+        "address": "117 Sahajanand Plaza, Bhattha, Paldi, Ahmedabad, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Ahmedabad",
+        "postcode": "",
+        "categories": "Bridal Store",
+        "timezone": null,
+        "website": null,
+        "tel": "079 5521 9063",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15829470549423,
+          22.31332033724129
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4f6764b9e4b0777dff0727b0",
+        "name": "Inox Cinemas",
+        "address": "",
+        "country": "IN",
+        "region": null,
+        "locality": null,
+        "postcode": "",
+        "categories": "Movie Theater",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.13734331775264,
+          22.315798131061996
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4decb27f8130115d6be3d5ce",
+        "name": "Gotri Lake",
+        "address": "State Highway 11, Gotri Road, Gotri, Vadodara 390021, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390021",
+        "categories": "Lake",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15792003342943,
+          22.31299334186018
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4d5f908029ef236a0e639a59",
+        "name": "INOX",
+        "address": "Race Course Circle (Gopal Baug,Ellora Park,), Vadodara 390 007, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390 007",
+        "categories": "Movie Theater",
+        "timezone": null,
+        "website": "https://www.inoxmovies.com/index.aspx",
+        "tel": "0265 305 6888",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1564921323836,
+          22.305950743715087
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4bf7f635d4cdb71331ab84fe",
+        "name": "Subway",
+        "address": "race course road (natubhai circle), Baroda, Guj",
+        "country": "IN",
+        "region": "Guj",
+        "locality": "Baroda",
+        "postcode": "",
+        "categories": "Sandwich Spot",
+        "timezone": null,
+        "website": "http://subway.co.in",
+        "tel": "097255 55146",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15191038389499,
+          22.310830890643665
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "51036bc3e4b026986b8d40f1",
+        "name": "Govinda's Restaurant",
+        "address": "Hare Krishna Land, Gotri Road, Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Restaurant",
+        "timezone": null,
+        "website": "http://www.iskconbaroda.com",
+        "tel": "0265 233 1012",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15846180175105,
+          22.312649291817017
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "50fd6b57e4b0d5fd141ed0a6",
+        "name": "Cafe Mocha",
+        "address": "Sarnam Fortune (Inox Road), Vadodara 390007, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390007",
+        "categories": "Café",
+        "timezone": null,
+        "website": null,
+        "tel": "0265 664 6666",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.131861,
+          22.316358
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "59e8be4062420b39d084b254",
+        "name": "Subway",
+        "address": "Gotri Road, Vadodara 390021, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390021",
+        "categories": "Sandwich Spot",
+        "timezone": null,
+        "website": "http://www.subway.com/en-IN",
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15885937510836,
+          22.311236707462886
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4dbeb5100cb691071cd5906f",
+        "name": "The Shoppe",
+        "address": "",
+        "country": "IN",
+        "region": null,
+        "locality": null,
+        "postcode": "",
+        "categories": "Arts and Crafts Store",
+        "timezone": null,
+        "website": "http://www.theshoppe.in",
+        "tel": "0265 233 6543",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15856590072352,
+          22.310227522473397
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4cf11942899c6ea84174eec1",
+        "name": "Goodies",
+        "address": "Natubhai circle, Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Fast Food Restaurant",
+        "timezone": null,
+        "website": "http://www.goodiescafe.in",
+        "tel": "0265 238 9111",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15201986384758,
+          22.30929905489298
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4eabaf87cc217eb08edd9cd3",
+        "name": "Iscon Mandir Vasna Road",
+        "address": "",
+        "country": "IN",
+        "region": null,
+        "locality": null,
+        "postcode": "",
+        "categories": "Indian Restaurant, Spiritual Center",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15786242485046,
+          22.31265167382641
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4d8c728a1412dcb317e55307",
+        "name": "Landmark",
+        "address": "Race Course Circle, Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": null,
+        "categories": "Miscellaneous Store, Music Store, Bookstore",
+        "timezone": null,
+        "website": null,
+        "tel": "0265 664 7777",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15876142231694,
+          22.31081799891636
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4ef75b12e5fa4f286b5808c9",
+        "name": "LILLERIA FOOD COURT",
+        "address": "",
+        "country": "IN",
+        "region": null,
+        "locality": null,
+        "postcode": "",
+        "categories": "Indian Restaurant",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15885361318063,
+          22.310502773993154
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "5471fc81498e3f6064d326c3",
+        "name": "La Quello",
+        "address": "Trivia mall,natubhai circle, Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Mediterranean Restaurant",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.13168,
+          22.316051
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "5f49378c7631944f91ad2364",
+        "name": "Baskin Robbins",
+        "address": "Darshanam Arise (near gotri talav), Vadodara 391101, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "391101",
+        "categories": "Ice Cream Parlor",
+        "timezone": null,
+        "website": null,
+        "tel": "088499 47658",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15813337106043,
+          22.313104307856637
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4ed7fefeaf245ee23ef25c7b",
+        "name": "Pantaloons",
+        "address": "Inox Multiplex, Race course Road, Near Nathubhai Circle, Opp. Indraprastha, Ellora Park, Vadodara, Vadodara 390 007, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390 007",
+        "categories": "Clothing Store, Department Store",
+        "timezone": null,
+        "website": null,
+        "tel": "0265 662 0671",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.131225,
+          22.315953
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "5a6b402ba35dce4fc8e59123",
+        "name": "Back To Kerela",
+        "address": "Darshanam Arise (Gotri Sevasi Road), Vadodara 390021, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390021",
+        "categories": "Southern Food Restaurant",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15812760911423,
+          22.312558313693714
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "52920c5d11d2d81238b2caac",
+        "name": "Bowling brothers",
+        "address": "Baroda (Race course), Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Bowling Alley",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15800084626109,
+          22.313021078232286
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4c70ee39932aef3b601e2677",
+        "name": "Café Coffee Day",
+        "address": "Inox (Ellora Park), Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": null,
+        "categories": "Coffee Shop, Café",
+        "timezone": null,
+        "website": "http://cafecoffeeday.com/",
+        "tel": "0265 326 4233",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1581958881406,
+          22.312509115013654
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4dfe0c01b61c84188ef24473",
+        "name": "Westside",
+        "address": "Monalisa - Final Plot , 326 ( Prt ) Next To Inox (Race Course road), Vadodara 390 007, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390 007",
+        "categories": "Clothing Store",
+        "timezone": null,
+        "website": "http://www.mywestside.com",
+        "tel": "0265 662 3101",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15792594089314,
+          22.312951629616517
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4bd449de77b29c7430569282",
+        "name": "inox multiplex",
+        "address": "ellora park, Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Movie Theater",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15165685117046,
+          22.30335937698284
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "55c3367d498ecde9f605ea54",
+        "name": "PVR Cinemas",
+        "address": "Ved transcube Plaza (Above Vadodara Bus Station 3rd Floor), Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "",
+        "categories": "Movie Theater",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15834080102566,
+          22.310952195136135
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "4fdd7844e4b03622b1bec6af",
+        "name": "One Way",
+        "address": "Race Course Circle, Vadodara, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": null,
+        "categories": "Clothing Store",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.133556,
+          22.328627
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "63d45eafaa844569b37af6ce",
+        "name": "Medkart Pharmacy",
+        "address": "No 16, Ground Floor, Ananta Trendz,Laxmipura Road (Gotri), Vadodara 390021, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "390021",
+        "categories": "Pharmacy",
+        "timezone": null,
+        "website": "https://stores.medkart.in/medkart-pharmacy-pharmacy-gotri-vadodara-197742/Home",
+        "tel": "063547 53824",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.12981164068512,
+          22.326691735438303
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "50d5ce91e4b014707520488a",
+        "name": "Bamboo Pizza",
+        "address": "",
+        "country": "IN",
+        "region": null,
+        "locality": null,
+        "postcode": "",
+        "categories": "Pizzeria",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.12486,
+          22.31798
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "5d45b459cf1f8000082d9667",
+        "name": "Indish Lounge",
+        "address": "Vadodara 391101, Gujarāt",
+        "country": "IN",
+        "region": "Gujarāt",
+        "locality": "Vadodara",
+        "postcode": "391101",
+        "categories": "Lounge",
+        "timezone": null,
+        "website": null,
+        "tel": "081281 25572",
+        "source": "Foursquare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16156766735858,
+          22.307799381539184
+        ]
+      },
+      "properties": {
+        "fsq_place_id": "57adbffecd10decb943a34d6",
+        "name": "SoulBrew",
+        "address": "",
+        "country": "IN",
+        "region": null,
+        "locality": null,
+        "postcode": "",
+        "categories": "Coffee Shop",
+        "timezone": null,
+        "website": null,
+        "tel": null,
+        "source": "Foursquare"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1202 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.159589,
+          22.3202614
+        ]
+      },
+      "properties": {
+        "name": "cafe",
+        "category": "Cafe",
+        "address": "Gf 18,19,20, S square mall, opposite Vishwamohini apartment, near Ganga jamuna hospital, Ganga Jamana Society, Subhanpura, Vadodara, Gujarat 390023 ",
+        "rating": "4.8",
+        "reviews": "",
+        "phone": "084870 06466 ",
+        "website": "http://www.cafecup90s.com/",
+        "place_id": "cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1895569,
+          22.3080904
+        ]
+      },
+      "properties": {
+        "name": "The Cave Cafe",
+        "category": "Cafe",
+        "address": "2nd floor, Midway Height, opp. SSG Hospital, near Kala Ghoda Circle, Dak Bunglaw, Sayajiganj, Vadodara, Gujarat 390020 ",
+        "rating": "4.9",
+        "reviews": "",
+        "phone": "088665 57838 ",
+        "website": "http://thecavecafe.online/",
+        "place_id": "The+Cave+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1734536,
+          22.3121384
+        ]
+      },
+      "properties": {
+        "name": "Kaffa Coffee Roasters",
+        "category": "Coffee shop",
+        "address": "The lane of Bank Of Baroda, near hotel baroda residency, Alkapuri Society, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "4.4",
+        "reviews": "",
+        "phone": "098253 36364 ",
+        "website": "",
+        "place_id": "Kaffa+Coffee+Roasters",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1690845,
+          22.3141227
+        ]
+      },
+      "properties": {
+        "name": "The Signature Brew",
+        "category": "Cafe",
+        "address": "83 /A हाई विद्यालय, near बड़ोदा, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "4.1",
+        "reviews": "",
+        "phone": "081412 87148 ",
+        "website": "",
+        "place_id": "The+Signature+Brew",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1588426,
+          22.2948607
+        ]
+      },
+      "properties": {
+        "name": "Café Coffee Day",
+        "category": "Cafe",
+        "address": "No 103 & 104, Upper Grnd Flr, Aries Pavillion, Vasna Rd, Niti Park Society, Shobhana Nagar, Shivashraya Society, Tandalja, Vadodara, Gujarat 390007 ",
+        "rating": "4.2",
+        "reviews": "",
+        "phone": "1800 102 5093 ",
+        "website": "https://tandalja.cafecoffeeday.com/",
+        "place_id": "Caf%C3%A9+Coffee+Day",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.169587,
+          22.2996912
+        ]
+      },
+      "properties": {
+        "name": "Cafe Bistro",
+        "category": "Cafe",
+        "address": "White Potato Restaurant, Shankheshwar Parshwanath Marg Ground floor, Opposit D-mart, Besides, Akota, Vadodara, Gujarat 390007 ",
+        "rating": "4.2",
+        "reviews": "",
+        "phone": "099043 19904 ",
+        "website": "http://www.facebook.com/coffeeshop.baroda",
+        "place_id": "Cafe+Bistro",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1590781,
+          22.3139032
+        ]
+      },
+      "properties": {
+        "name": "Lionize Restro Cafe",
+        "category": "Cafe",
+        "address": "703, Everest Onyx, above Fabindia, Race Course, Vadiwadi, Vadodara, Gujarat 390021 ",
+        "rating": "4.6",
+        "reviews": "",
+        "phone": "098981 77703 ",
+        "website": "https://lionizerestrocafe.com/",
+        "place_id": "Lionize+Restro+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1828138,
+          22.3030057
+        ]
+      },
+      "properties": {
+        "name": "Dev's Cafe",
+        "category": "Cafe",
+        "address": "GF-05, Darshanam Trade Centre-II, near Surya Palace Hotel, Sayajiganj, Vadodara, Gujarat 390007 ",
+        "rating": "4.8",
+        "reviews": "",
+        "phone": "079908 50131 ",
+        "website": "",
+        "place_id": "Dev%27s+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1886136,
+          22.3215863
+        ]
+      },
+      "properties": {
+        "name": "La Ville Cafe",
+        "category": "Cafe",
+        "address": "Abbas Tyabji Rd, near Methodist Church, Jayesh Colony, Fatehgunj, Vadodara, Gujarat 390008 ",
+        "rating": "4.6",
+        "reviews": "",
+        "phone": "076000 31580 ",
+        "website": "",
+        "place_id": "La+Ville+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1301244,
+          22.2901242
+        ]
+      },
+      "properties": {
+        "name": "Theist Cafe",
+        "category": "Cafe",
+        "address": "SWC HUB, GF #07, Vasna - Bhayli Main Rd, Tandalja, Vadodara, Gujarat 391410 ",
+        "rating": "4.9",
+        "reviews": "",
+        "phone": "097273 10722 ",
+        "website": "",
+        "place_id": "Theist+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1434171,
+          22.295097
+        ]
+      },
+      "properties": {
+        "name": "Caffein Cafe",
+        "category": "Cafe",
+        "address": "Gokul Society, 6, Vasna - Bhayli Main Rd, Vasna jakat Naka, Ravi Park Society, Saiyed Vasna, Vadodara, Gujarat 390020 ",
+        "rating": "4.2",
+        "reviews": "",
+        "phone": "074053 69369 ",
+        "website": "http://www.caffein.co.in/",
+        "place_id": "Caffein+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1884181,
+          22.3237258
+        ]
+      },
+      "properties": {
+        "name": "Times Cafe",
+        "category": "Cafe",
+        "address": "Petrol Pump, 1st Floor Times Square Building, next to Fategunj, Fatehgunj, Vadodara, Gujarat 390008 ",
+        "rating": "4.1",
+        "reviews": "",
+        "phone": "096626 89707 ",
+        "website": "https://www.timescafe.in/",
+        "place_id": "Times+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.17934,
+          22.3116435
+        ]
+      },
+      "properties": {
+        "name": "Charmant The Heritage Cafe",
+        "category": "Vegetarian cafe and deli",
+        "address": "Contractor's Bungalow, Faramji Rd, opp. Railway Booking Office, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "4.3",
+        "reviews": "",
+        "phone": "097730 50954 ",
+        "website": "",
+        "place_id": "Charmant+The+Heritage+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1599102,
+          22.3143198
+        ]
+      },
+      "properties": {
+        "name": "BERRY QUE CAFE",
+        "category": "Cafe",
+        "address": "Indraprastha Tower, VEGETABLE MARKET, G-4 INDRAPRASTH COMPLEX, NR STERLING HOSPITAl OPPO, A/SB- 3, Race Course Rd, opp. Inox Cinema, Ellora Park, Hari Nagar, Vadodara, Gujarat 390021 ",
+        "rating": "4.2",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "BERRY+QUE+CAFE",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1530388,
+          22.2796844
+        ]
+      },
+      "properties": {
+        "name": "The Nirvaan Cafe & Lounge",
+        "category": "Cafe",
+        "address": "Sun Pharma Rd, Pramukh Swami nagar, Atladara, Vadodara, Gujarat 390012 ",
+        "rating": "4.1",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "The+Nirvaan+Cafe+%26+Lounge",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1254473,
+          22.2702636
+        ]
+      },
+      "properties": {
+        "name": "Cafe Madrid Vadodara",
+        "category": "Cafe",
+        "address": "74CG+454, Madrid County By Pacifica Ground Floor, Bhayli Rd, inside Madrid County, near Proposed Swaminarayan Temple, Vadodara, Gujarat 391410 ",
+        "rating": "4.2",
+        "reviews": "",
+        "phone": "063570 72681 ",
+        "website": "",
+        "place_id": "Cafe+Madrid+Vadodara",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1692183,
+          22.2998699
+        ]
+      },
+      "properties": {
+        "name": "The Tulip Touch Café",
+        "category": "Art cafe",
+        "address": "The Tulip Touch Cafe, opposite Galleria Mall, Prafull Society, Tarangan Society, Akota, Vadodara, Gujarat 390007 ",
+        "rating": "4.5",
+        "reviews": "",
+        "phone": "091061 83731 ",
+        "website": "",
+        "place_id": "The+Tulip+Touch+Caf%C3%A9",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.17098,
+          22.307564
+        ]
+      },
+      "properties": {
+        "name": "First & Last Sip Cafe",
+        "category": "Restaurant",
+        "address": "F5, Tower, 3A, Jetalpur Rd, Kashivishweshwar Township, Haripura, Vadodara, Gujarat 390007 ",
+        "rating": "4.7",
+        "reviews": "",
+        "phone": "097250 78881 ",
+        "website": "",
+        "place_id": "First+%26+Last+Sip+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1886482,
+          22.3216158
+        ]
+      },
+      "properties": {
+        "name": "Dream Bean Cafe",
+        "category": "Cafe",
+        "address": "Sainath avanue, B-201, Abbas Tyabji Rd, Jayesh Colony, Fatehgunj, Vadodara, Gujarat 390008 ",
+        "rating": "4.1",
+        "reviews": "",
+        "phone": "093279 65710 ",
+        "website": "",
+        "place_id": "Dream+Bean+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.18608,
+          22.3087222
+        ]
+      },
+      "properties": {
+        "name": "The chai shotts cafe",
+        "category": "Cafe",
+        "address": "Shop no - 5, Manubhai Towers, near Kala Ghoda Circle, Opp. M.S. University, Sarod, Sayajiganj, Vadodara, Gujarat 390005 ",
+        "rating": "4.7",
+        "reviews": "",
+        "phone": "095588 68029 ",
+        "website": "",
+        "place_id": "The+chai+shotts+cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5658815,
+          23.0433594
+        ]
+      },
+      "properties": {
+        "name": "Karma Cafe",
+        "category": "Cafe",
+        "address": "Navjivan Trust, B/h Gujarat Vidyapith, Navjeevan Press Rd, Navrangpura, Ahmedabad, Gujarat 380009 ",
+        "rating": "4.5",
+        "reviews": "",
+        "phone": "079 2754 0635 ",
+        "website": "",
+        "place_id": "Karma+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2035237,
+          22.341782
+        ]
+      },
+      "properties": {
+        "name": "Cafe Brewito - Best cafe in vadodara | Best specialty coffee in town",
+        "category": "Art cafe",
+        "address": "GF-1, Earth EON, Sama-Savli Rd, opp. Urmi School, Karelibagh, Vadodara, Gujarat 390024 ",
+        "rating": "4.1",
+        "reviews": "",
+        "phone": "095869 68006 ",
+        "website": "https://cafebrewito.com/",
+        "place_id": "Cafe+Brewito+-+Best+cafe+in+vadodara+%7C+Best+specialty+coffee+in+town",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1711808,
+          22.2909699
+        ]
+      },
+      "properties": {
+        "name": "Cafe appetitoo baungalow || Best Cafe In Akota || Best Fast Food Cafe || Best Coffee Cafe || Speciality Coffee",
+        "category": "Coffee shop",
+        "address": "shraddha deep society, 12, beside om plaza, Akota, Vadodara, Gujarat 390007 ",
+        "rating": "4.3",
+        "reviews": "",
+        "phone": "090999 84962 ",
+        "website": "",
+        "place_id": "Cafe+appetitoo+baungalow+%7C%7C+Best+Cafe+In+Akota+%7C%7C+Best+Fast+Food+Cafe+%7C%7C+Best+Coffee+Cafe+%7C%7C+Speciality+Coffee",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1650021,
+          22.2871841
+        ]
+      },
+      "properties": {
+        "name": "Caffe De Rio",
+        "category": "Cafe",
+        "address": "F11, Old Padra Rd, opposite Dev Deep Nagar Society, Jai Lakshmi Society, Madhav Nagar, Akota, Vadodara, Gujarat 390007 ",
+        "rating": "4.4",
+        "reviews": "",
+        "phone": "095746 85109 ",
+        "website": "",
+        "place_id": "Caffe+De+Rio",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1711277,
+          22.2909016
+        ]
+      },
+      "properties": {
+        "name": "Chaibugs",
+        "category": "Cafe",
+        "address": "Plotno.11, Shraddhadeep Society, Akota - Mujmahuda Rd, opp. GIHM College, Sheetal Nagar, Akota, Vadodara, Gujarat 390020 ",
+        "rating": "4.4",
+        "reviews": "",
+        "phone": "063547 26093 ",
+        "website": "",
+        "place_id": "Chaibugs",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.165062,
+          22.2925029
+        ]
+      },
+      "properties": {
+        "name": "Kadak",
+        "category": "Cafe",
+        "address": "Kadak, SB 7, Gajanand Complex, Old Padra Road, Akota Rd, near Main Road, Akota, Vadodara, Gujarat 390007 ",
+        "rating": "5.0",
+        "reviews": "",
+        "phone": "",
+        "website": "http://kadak.vadodara.com/",
+        "place_id": "Kadak",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1710507,
+          22.2959355
+        ]
+      },
+      "properties": {
+        "name": "THE DUGOUT CAFE_HOUSE_EDITION",
+        "category": "Cafe",
+        "address": "6/7, near, Akota Stadium Rd, Sundarvan Society, Sheetal Nagar, Akota, Vadodara, Gujarat 390007 ",
+        "rating": "4.4",
+        "reviews": "",
+        "phone": "079900 41728 ",
+        "website": "",
+        "place_id": "THE+DUGOUT+CAFE_HOUSE_EDITION",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.175971,
+          22.2967824
+        ]
+      },
+      "properties": {
+        "name": "Red Rose Cafe",
+        "category": "Coffee shop",
+        "address": "75WG+P98, Aashapuri Society, Sheetal Nagar, Akota, Vadodara, Gujarat 390007 ",
+        "rating": "4.8",
+        "reviews": "",
+        "phone": "091049 30369 ",
+        "website": "",
+        "place_id": "Red+Rose+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1690952,
+          22.2999024
+        ]
+      },
+      "properties": {
+        "name": "Cafe WorkBrew",
+        "category": "Cafe",
+        "address": "GF, Zex House, below Allure & Beard Studio, opposite Galleria Mall, Prafull Society, Tarangan Society, Akota, Vadodara, Gujarat 390007 ",
+        "rating": "4.3",
+        "reviews": "",
+        "phone": "082380 35000 ",
+        "website": "https://www.instagram.com/work.brew/",
+        "place_id": "Cafe+WorkBrew",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1691277,
+          22.2999569
+        ]
+      },
+      "properties": {
+        "name": "Times Cafe The Lounge",
+        "category": "Coffee shop",
+        "address": "Prafull Society, Tarangan Society, Haripura, Vadodara, Gujarat 390007 ",
+        "rating": "4.0",
+        "reviews": "",
+        "phone": "096626 89707 ",
+        "website": "",
+        "place_id": "Times+Cafe+The+Lounge",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.179725,
+          22.3061378
+        ]
+      },
+      "properties": {
+        "name": "Meet Me Cafe – Private Cabin Cafe in Vadodara",
+        "category": "Cafe",
+        "address": "Indiabulls Megamall, S/12C, Swami Vivekananda Railway Over Brg, Road, Akota, Vadodara, Gujarat 390007 ",
+        "rating": "4.3",
+        "reviews": "",
+        "phone": "099047 99887 ",
+        "website": "https://www.instagram.com/meet_me_cafe_vadodara?igsh=bGczcmU5ZWlvdjYx&utm_source=qr",
+        "place_id": "Meet+Me+Cafe+%E2%80%93+Private+Cabin+Cafe+in+Vadodara",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1650663,
+          22.2858264
+        ]
+      },
+      "properties": {
+        "name": "Times Cafe HQ OP Road",
+        "category": "Cafe",
+        "address": "Sai Villa Complex, 103, Old Padra Rd, opp. Reliance Mall, Shripal Society, Madhav Nagar, Akota, Vadodara, Gujarat 390007 ",
+        "rating": "4.1",
+        "reviews": "",
+        "phone": "096626 89707 ",
+        "website": "",
+        "place_id": "Times+Cafe+HQ+OP+Road",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.169589,
+          22.297467
+        ]
+      },
+      "properties": {
+        "name": "Coffee Yard",
+        "category": "Coffee shop",
+        "address": "23, Akota Stadium Rd, Guruprasad Society, IOC Nagar, Haripura, Vadodara, Gujarat 390007 ",
+        "rating": "4.1",
+        "reviews": "",
+        "phone": "099781 86903 ",
+        "website": "",
+        "place_id": "Coffee+Yard",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1747079,
+          22.2929517
+        ]
+      },
+      "properties": {
+        "name": "DARK BITE JUNGLE",
+        "category": "Cafe",
+        "address": "19, Pratham Avenue, Akota, Vadodara, Gujarat 390007 ",
+        "rating": "4.8",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "DARK+BITE+JUNGLE",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1678508,
+          22.3028836
+        ]
+      },
+      "properties": {
+        "name": "Coffee Clan",
+        "category": "Cafe",
+        "address": "Shivang Complex, Shop N0, 4 5 6, Urmi Rd, Opp Gail Office, Punit Nagar, Society, Vadodara, Gujarat 390007 ",
+        "rating": "4.4",
+        "reviews": "",
+        "phone": "074054 12238 ",
+        "website": "",
+        "place_id": "Coffee+Clan",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1881844,
+          22.3207056
+        ]
+      },
+      "properties": {
+        "name": "RATLAM CAFE HOUSE",
+        "category": "Restaurant",
+        "address": "SHOP NO 5, Eagle Apartment, near by Subha Elite Hotel, Jayesh Colony, Fatehgunj, Vadodara, Gujarat 390008 ",
+        "rating": "4.6",
+        "reviews": "",
+        "phone": "083208 22243 ",
+        "website": "",
+        "place_id": "RATLAM+CAFE+HOUSE",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1334626,
+          22.3265552
+        ]
+      },
+      "properties": {
+        "name": "Unplaned Cafe",
+        "category": "Cafe",
+        "address": "1 Yogiraj Complex, Near, Narayan Garden Rd, opp. Lotus Plaza, New Alkapuri, Laxmipura, Vadodara, Gujarat 390023 ",
+        "rating": "4.4",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "Unplaned+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1325009,
+          22.2851287
+        ]
+      },
+      "properties": {
+        "name": "Cafe Amistoso | Vadodara",
+        "category": "Cafe",
+        "address": "Sixth floor, Cafe Amistoso, Vihav Trade Centre, 601, Bhayli, Vadodara, Gujarat 391410 ",
+        "rating": "4.6",
+        "reviews": "",
+        "phone": "074360 72824 ",
+        "website": "https://cafeamistoso.com/",
+        "place_id": "Cafe+Amistoso+%7C+Vadodara",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1692678,
+          22.3141364
+        ]
+      },
+      "properties": {
+        "name": "Pefeteria - Gujarat's 1st Pet Cafe",
+        "category": "Cafe",
+        "address": "PEFETERIA, M, K School Lane, near बड़ोदा हाई विद्यालय, Alkapuri Society, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "4.5",
+        "reviews": "",
+        "phone": "074359 77719 ",
+        "website": "http://pefeteria.com/",
+        "place_id": "Pefeteria+-+Gujarat%27s+1st+Pet+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.169574,
+          22.3079525
+        ]
+      },
+      "properties": {
+        "name": "Curators Coffee",
+        "category": "Coffee shop",
+        "address": "101, Corrum Complex, Jetalpur Rd, Chikuwadi, Haripura, Vadodara, Gujarat 390007 ",
+        "rating": "4.5",
+        "reviews": "",
+        "phone": "063592 20791 ",
+        "website": "http://www.instagram.com/curators.coffee",
+        "place_id": "Curators+Coffee",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.172511,
+          22.3074351
+        ]
+      },
+      "properties": {
+        "name": "Devi's Coffee Bar",
+        "category": "Cafe",
+        "address": "GF 16, Glacier Complex, Jetalpur Rd, near pizza Bell, Anupum Society, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "4.5",
+        "reviews": "",
+        "phone": "094270 45632 ",
+        "website": "",
+        "place_id": "Devi%27s+Coffee+Bar",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1751773,
+          22.307343
+        ]
+      },
+      "properties": {
+        "name": "Princely Cafe",
+        "category": "Art cafe",
+        "address": "B 46, Emerald one besides Gujarat kidney Hospital, Jetalpur Rd, Vadodara, Gujarat 390007 ",
+        "rating": "4.9",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "Princely+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1845444,
+          22.308419
+        ]
+      },
+      "properties": {
+        "name": "Buzz cafe",
+        "category": "Cafe",
+        "address": "315,3rd floor, Samanvay Silicon, opp. kalyan hotel, Sayajiganj, Vadodara, Gujarat 390007 ",
+        "rating": "4.4",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "Buzz+cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1841299,
+          22.3094795
+        ]
+      },
+      "properties": {
+        "name": "TIMES CAFE SAYAJIGUNJ",
+        "category": "Cafe",
+        "address": "FF1, Alankar Tower, Police Station, opp. Sayajigunj, Near Sayajigunj Police Station, Sarod, Sayajiganj, Vadodara, Gujarat 390007 ",
+        "rating": "4.2",
+        "reviews": "",
+        "phone": "096626 89707 ",
+        "website": "",
+        "place_id": "TIMES+CAFE+SAYAJIGUNJ",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1497899,
+          22.3211872
+        ]
+      },
+      "properties": {
+        "name": "Lion's Cafe",
+        "category": "Cafe",
+        "address": "High Tension Rd, Subhanpura, Vadodara, Gujarat 390021 ",
+        "rating": "4.8",
+        "reviews": "",
+        "phone": "088664 30549 ",
+        "website": "",
+        "place_id": "Lion%27s+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1379149,
+          22.3071985
+        ]
+      },
+      "properties": {
+        "name": "Tasu's Cafe",
+        "category": "Cafe",
+        "address": "GF-22 Labh Icon, Gotri, Vasana, Gujarat 390007 ",
+        "rating": "5.0",
+        "reviews": "",
+        "phone": "070166 91230 ",
+        "website": "",
+        "place_id": "Tasu%27s+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1596012,
+          22.3209386
+        ]
+      },
+      "properties": {
+        "name": "TeaPost Subhanpura",
+        "category": "Cafe",
+        "address": "5, New IPCL Rd, Maheshwar Nagar Society, Subhanpura, Vadodara, Gujarat 390023 ",
+        "rating": "4.1",
+        "reviews": "",
+        "phone": "099741 43609 ",
+        "website": "",
+        "place_id": "TeaPost+Subhanpura",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1549461,
+          22.3276314
+        ]
+      },
+      "properties": {
+        "name": "KRISHNA CAFE",
+        "category": "Cafe",
+        "address": "3, RUTWIK TOWER, ANANDVAN COMPLEX, near RANCHOD MASALA MEEL, New IPCL Rd, Subhanpura, Vadodara, Gujarat 390023 ",
+        "rating": "5.0",
+        "reviews": "",
+        "phone": "070132 53543 ",
+        "website": "",
+        "place_id": "KRISHNA+CAFE",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.165772,
+          22.3298595
+        ]
+      },
+      "properties": {
+        "name": "Ark Cafe",
+        "category": "Cafe",
+        "address": "Ground floor, Ark building, Krishna estate, BIDC Gorwa Estate, Gorwa, Vadodara, Gujarat 390003 ",
+        "rating": "4.6",
+        "reviews": "",
+        "phone": "098795 09852 ",
+        "website": "",
+        "place_id": "Ark+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1679861,
+          22.3200827
+        ]
+      },
+      "properties": {
+        "name": "Cafe Beats",
+        "category": "Restaurant",
+        "address": "GF - 21, Neptune Trion Sarabhai Campus, Gorwa Rd, Subhanpura, Vadodara, Gujarat 390023 ",
+        "rating": "4.2",
+        "reviews": "",
+        "phone": "095121 53666 ",
+        "website": "https://cafebeats.in/",
+        "place_id": "Cafe+Beats",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1707692,
+          22.3148703
+        ]
+      },
+      "properties": {
+        "name": "C&C House of Coffee & Chocolates",
+        "category": "Coffee shop",
+        "address": "Dr Rustam, 31, Dr Rustom Cama Marg, Nutan Bharat Society, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "4.1",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "C%26C+House+of+Coffee+%26+Chocolates",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.169439,
+          22.318351
+        ]
+      },
+      "properties": {
+        "name": "Cafe Kaffeine",
+        "category": "Coffee shop",
+        "address": "Centre Square Mall, Sayaji Path, Near Genda Circle, Nand Agricultural University Farm, Alkapuri, Vadodara, Gujarat 390023 ",
+        "rating": "4.1",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "Cafe+Kaffeine",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1683195,
+          22.3108343
+        ]
+      },
+      "properties": {
+        "name": "Pure Beans & Creams",
+        "category": "Coffee store",
+        "address": "Before Hampton by Hilton Hotel, # 10, Kanha Capital, RC Dutt Road Opposite Express hotel, Alkapuri, Vadodara, Gujarat 390007 ",
+        "rating": "4.6",
+        "reviews": "",
+        "phone": "099784 47337 ",
+        "website": "",
+        "place_id": "Pure+Beans+%26+Creams",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1497803,
+          22.3226258
+        ]
+      },
+      "properties": {
+        "name": "KAFE BENKYOU - The Study Cafe",
+        "category": "Cafe",
+        "address": "FF9, Aakar Complex, Samta Cross Road, opposite Suresh Bhajiya House, Samta Chokdi, Subhanpura, Vadodara, Gujarat 390021 ",
+        "rating": "5.0",
+        "reviews": "",
+        "phone": "087990 26896 ",
+        "website": "https://www.instagram.com/kafe.benkyou/?ref=RollInsta&hl=gu",
+        "place_id": "KAFE+BENKYOU+-+The+Study+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1652044,
+          22.3249473
+        ]
+      },
+      "properties": {
+        "name": "Cafe Appetito - Alembic",
+        "category": "Cafe",
+        "address": "Shop No, Alembic Pharma Campus, 3, Alembic Rd, BIDC Gorwa Estate, Subhanpura, Vadodara, Gujarat 390003 ",
+        "rating": "4.2",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "Cafe+Appetito+-+Alembic",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1495048,
+          22.3379974
+        ]
+      },
+      "properties": {
+        "name": "Bruno's Cafe",
+        "category": "Cafe",
+        "address": "Frist Floor, Radhakrishna Shopping Complex, C/26, Centre, opposite Sahyog Garden, Toral Society, Gorwa, Vadodara, Gujarat 390016 ",
+        "rating": "4.8",
+        "reviews": "",
+        "phone": "084520 21419 ",
+        "website": "",
+        "place_id": "Bruno%27s+Cafe",
+        "search_term": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1817737,
+          22.3177531
+        ]
+      },
+      "properties": {
+        "name": "NIGHT LIFE CAFE - FATEHGUNJ",
+        "category": "Cafe",
+        "address": "opp. Rosary High School, Pratapgunj, Vadodara, Gujarat 390007 ",
+        "rating": "4.7",
+        "reviews": "",
+        "phone": "",
+        "website": "",
+        "place_id": "NIGHT+LIFE+CAFE+-+FATEHGUNJ",
+        "search_term": "cafe"
+      }
+    }
+  ]
+}

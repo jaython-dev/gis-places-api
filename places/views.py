@@ -1,13 +1,19 @@
+# pyrefly: ignore [missing-import]
 from django.contrib.gis.geos import Point
 from django.contrib.gis.db.models.functions import Distance
+# pyrefly: ignore [missing-import]
 from django.contrib.gis.measure import D
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
+from django.views.generic import TemplateView
 from .models import Place
 from .serializers import PlaceSerializer
 import math
 import requests
+
+class MapView(TemplateView):
+    template_name = 'places/map.html'
 
 class NearbyPlacesView(APIView):
     def get(self, request):
@@ -61,7 +67,20 @@ class RouteView(APIView):
                 status=status.HTTP_400_BAD_REQUEST
             )
 
-        osrm_url = f"http://localhost:5000/route/v1/driving/{src_lng},{src_lat};{dst_lng},{dst_lat}?overview=full&geometries=geojson"
+        vehicle = request.GET.get('vehicle', 'car')
+        if vehicle not in ['car', 'foot', 'bicycle']:
+            vehicle = 'car'
+
+        profile_map = {
+            'car': 'driving',
+            'foot': 'foot',
+            'bicycle': 'bike'
+        }
+        osrm_profile = profile_map.get(vehicle, 'driving')
+
+        # Use the specific container based on vehicle
+        osrm_host = f"http://osrm-{vehicle}:5000"
+        osrm_url = f"{osrm_host}/route/v1/{osrm_profile}/{src_lng},{src_lat};{dst_lng},{dst_lat}?overview=full&geometries=geojson"
         
         try:
             response = requests.get(osrm_url)

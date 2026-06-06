@@ -1,0 +1,257 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9729782,
+          40.7857679
+        ]
+      },
+      "properties": {
+        "Name": "Joe Coffee Company: W 85th St",
+        "Category": "coffee shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9725434,
+          40.7862598
+        ]
+      },
+      "properties": {
+        "Name": "Matto Espresso",
+        "Category": "coffee shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9735632,
+          40.7899761
+        ]
+      },
+      "properties": {
+        "Name": "ARTISAN CAFE",
+        "Category": "coffee shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975184,
+          40.782894
+        ]
+      },
+      "properties": {
+        "Name": "Blank Street",
+        "Category": "coffee shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9742061,
+          40.7833432
+        ]
+      },
+      "properties": {
+        "Name": "About Coffee",
+        "Category": "coffee shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.972035,
+          40.7870215
+        ]
+      },
+      "properties": {
+        "Name": "Effy's Cafe & Patisserie",
+        "Category": "coffee shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9688962,
+          40.790596
+        ]
+      },
+      "properties": {
+        "Name": "Picky Barista",
+        "Category": "coffee shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9777158,
+          40.7836728
+        ]
+      },
+      "properties": {
+        "Name": "Bluestone Lane Upper West Side Café",
+        "Category": "coffee shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9751974,
+          40.7870891
+        ]
+      },
+      "properties": {
+        "Name": "Fellini Coffee - Upper West",
+        "Category": "coffee shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9736344,
+          40.7841933
+        ]
+      },
+      "properties": {
+        "Name": "LENWICH",
+        "Category": "coffee shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974314,
+          40.7916947
+        ]
+      },
+      "properties": {
+        "Name": "Blank Street",
+        "Category": "coffee shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9771422,
+          40.7880912
+        ]
+      },
+      "properties": {
+        "Name": "Blank Street",
+        "Category": "coffee shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.972251,
+          40.786702
+        ]
+      },
+      "properties": {
+        "Name": "Starbucks Coffee Company",
+        "Category": "coffee shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9585253,
+          40.783823
+        ]
+      },
+      "properties": {
+        "Name": "Church of Heavenly Rest Café",
+        "Category": "coffee shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9714006,
+          40.7871769
+        ]
+      },
+      "properties": {
+        "Name": "Milk Bar",
+        "Category": "coffee shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9797338,
+          40.7808931
+        ]
+      },
+      "properties": {
+        "Name": "Sote Coffee Roasters",
+        "Category": "coffee shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9792021,
+          40.7855075
+        ]
+      },
+      "properties": {
+        "Name": "Royal Coffee",
+        "Category": "coffee shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9744997,
+          40.7914654
+        ]
+      },
+      "properties": {
+        "Name": "Frame Cafe Broadway",
+        "Category": "coffee shop"
+      }
+    }
+  ]
+}
