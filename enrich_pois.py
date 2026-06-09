@@ -1,4 +1,5 @@
 import os
+import sys
 import json
 import math
 import re
@@ -6,9 +7,14 @@ import argparse
 import asyncio
 from playwright.async_api import async_playwright
 
-POI_INPUT_PATH = "/Users/bansichhaniyara/Downloads/POI.json"
-POI_OUTPUT_PATH = "/Users/bansichhaniyara/Downloads/POI_enriched.json"
-GIS_PLACES_DIR = "/Users/bansichhaniyara/Documents/jay/Projects/gis-places-api"
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+if hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding='utf-8', errors='replace')
+
+POI_INPUT_PATH = "D:\\projects\\gis-places-api\\POI.json"
+POI_OUTPUT_PATH = "D:\\projects\\gis-places-api\\POI_enriched.json"
+GIS_PLACES_DIR = "D:\\projects\\gis-places-api"
 
 def haversine(lon1, lat1, lon2, lat2):
     # Convert decimal degrees to radians
@@ -136,7 +142,7 @@ async def scrape_poi_details(page, target_name, target_lat, target_lon, delay):
         await page.goto(search_url, wait_until="domcontentloaded", timeout=30000)
         await page.wait_for_timeout(3000)
     except Exception as e:
-        print(f"  ⚠ Page load timeout for '{target_name}': {e}")
+        print(f"  [Warning] Page load timeout for '{target_name}': {e}")
         return None
 
     # Accept cookies
@@ -186,7 +192,7 @@ async def scrape_poi_details(page, target_name, target_lat, target_lon, delay):
                 await page.wait_for_timeout(3000)
                 is_detail_page = True
             except Exception as e:
-                print(f"  ⚠ Detail page load timeout: {e}")
+                print(f"  [Warning] Detail page load timeout: {e}")
                 
     if not is_detail_page:
         return None
@@ -322,6 +328,10 @@ async def run_scraper(features, limit, batch_size, delay):
                 break
                 
             props = feat.get("properties", {})
+            # Skip if already attempted by the scraper in a previous run
+            if props.get("Scrape Attempted"):
+                continue
+
             # Check if it needs details
             needs_details = not props.get("Phone / Co") or not props.get("Website") or not props.get("Opening Ti") or not props.get("Closing Ti") or len(props.get("Address", "")) < 20
             
@@ -338,6 +348,9 @@ async def run_scraper(features, limit, batch_size, delay):
             print(f"[{scraped_count + 1}] Scraping: {name} @ ({lat}, {lon})")
             info = await scrape_poi_details(page, name, lat, lon, delay)
             scraped_count += 1
+            
+            # Mark as attempted
+            props["Scrape Attempted"] = True
             
             if info:
                 success_count += 1
@@ -357,12 +370,12 @@ async def run_scraper(features, limit, batch_size, delay):
                 if info.get("closing_time"):
                     props["Closing Ti"] = info["closing_time"]
                 
-                print(f"  ✓ Success: Phone={info.get('phone', '')} | Website={info.get('website', '')} | Hours={info.get('opening_time', '')}-{info.get('closing_time', '')}")
+                print(f"  [Success] Phone={info.get('phone', '')} | Website={info.get('website', '')} | Hours={info.get('opening_time', '')}-{info.get('closing_time', '')}")
             else:
-                print("  ✗ No details found")
+                print("  [No details found]")
                 
-            if success_count % batch_size == 0 and success_count > 0:
-                print(f"Incremental save at {success_count} enriched POIs...")
+            if scraped_count % batch_size == 0 and scraped_count > 0:
+                print(f"Incremental save at {scraped_count} scraped attempts...")
                 save_data(features)
                 
         await browser.close()
